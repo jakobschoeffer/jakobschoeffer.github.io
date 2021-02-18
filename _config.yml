@@ -95,9 +95,9 @@ analytics:
 # Site Author
 author:
   name             : "Jakob Schoeffer"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "/assets/images/Jakob 3.JPG"
+  bio              : "PhD Student @ KIT"
+  location         : "Karlsruhe, Germany"
   email            :
   links:
     - label: "Email"
