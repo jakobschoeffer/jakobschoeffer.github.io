@@ -1,7 +1,5 @@
 # Jakob Schoeffer's personal page
 
----
-
 ## License
 
 The MIT License (MIT)
