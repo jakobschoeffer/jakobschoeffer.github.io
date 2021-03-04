@@ -1,6 +1,8 @@
 ---
+title: 'CV'
+layout: single
 permalink: /cv/
-title: "CV"
+author_profile: true
 ---
 
 An overview of my education and professional experience. Still work in progress.
