@@ -4,4 +4,4 @@ layout: single
 author_profile: true
 ---
 
-Work in progress.
+Hi there! I am currently a 2nd-year PhD student at Karlsruhe Institute of Technology (KIT) in Germany. 
