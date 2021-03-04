@@ -1,4 +1,4 @@
-# Jakob Schoeffer's personal page
+# Jakob Schoeffer's Personal Page
 
 ## License
 
