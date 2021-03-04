@@ -1,9 +1,7 @@
 ---
-title: 'Jakob Schoeffer'
+title: 'About me'
 layout: single
 author_profile: true
 ---
-
-# About me
 
 Work in progress.
