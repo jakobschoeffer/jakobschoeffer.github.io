@@ -10,17 +10,17 @@
 //Added the following to change font sizes (JS)
 
 html {
-  font-size: 12px; // change to whatever
+  font-size: 4px; // change to whatever
 
   @include breakpoint($medium) {
-    font-size: 14px; // change to whatever
+    font-size: 6px; // change to whatever
   }
 
   @include breakpoint($large) {
-    font-size: 16px; // change to whatever
+    font-size: 8px; // change to whatever
   }
 
   @include breakpoint($x-large) {
-    font-size: 18px; // change to whatever
+    font-size: 10px; // change to whatever
   }
 }
