@@ -1,5 +1,7 @@
 # Jakob Schoeffer's Personal Page
 
+This is the repo for my personal GitHub page.
+
 ## License
 
 The MIT License (MIT)
