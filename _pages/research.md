@@ -13,3 +13,5 @@ An overview of my academic work. Still work in progress.
 
 ## Peer-Reviewed Publications
 1. Hemmer, P., Kuehl, N., **Schoeffer, J.** (2020). [*DEAL: Deep Evidential Active Learning for Image Classification*](https://arxiv.org/pdf/2007.11344.pdf). 19<sup>th</sup> IEEE International Conference on Machine Learning and Applications (ICMLA 2020)
+
+## Talks
