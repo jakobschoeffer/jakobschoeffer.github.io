@@ -8,6 +8,7 @@ author_profile: true
 An overview of my academic work. Still work in progress.
 
 ## Preprints
+\[1\] Baier, L., Schloer, T., **Schoeffer, J.**, Kuehl, N. (2021). [*Detecting Concept Drift With Neural Network Model Uncertainty*](https://arxiv.org/pdf/2107.01873.pdf).
 
 ## Peer-Reviewed Publications
 \[3\] **Schoeffer, J.**, Kuehl, N., Valera, I. (2021). [*A Ranking Approach to Fair Classification*](https://arxiv.org/pdf/2102.04565.pdf). ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS '21)
