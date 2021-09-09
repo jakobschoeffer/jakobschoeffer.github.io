@@ -19,5 +19,13 @@ An overview of my academic work. Still work in progress.
 
 \[1\] Hemmer, P., Kuehl, N., **Schoeffer, J.** (2020). [*DEAL: Deep Evidential Active Learning for Image Classification*](https://arxiv.org/pdf/2007.11344.pdf). 19<sup>th</sup> IEEE International Conference on Machine Learning and Applications (ICMLA 2020)
 
-## Talks and Doctoral Consortia
+## Talks, Presentations, and Doctoral Consortia
+
+Presentation at *ACM COMPASS 2021* (June, 2021)
+
+Presentation at *Transparency and Explanations in Smart Systems (TExSS) Workshop at ACM IUI 2021* (April, 2021)
+
+Doctoral Consortium at *ACM FAccT 2021* (March, 2021)
+
+
 
