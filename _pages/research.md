@@ -25,6 +25,8 @@ An overview of my academic work.
 
 ## Talks, Presentations, and Doctoral Consortia
 
+Poster Presentation at *ACM CSCW 2021* (October, 2021)
+
 Presentation at *ACM COMPASS 2021* (June, 2021)
 
 Presentation at *Transparency and Explanations in Smart Systems (TExSS) Workshop at ACM IUI 2021* (April, 2021)
