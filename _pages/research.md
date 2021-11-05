@@ -27,11 +27,15 @@ An overview of my academic work.
 
 Poster Presentation at *ACM CSCW 2021* (October, 2021)
 
+Invited Talk at *Medienakademie Köln* (September, 2021)
+
 Presentation at *ACM COMPASS 2021* (June, 2021)
 
 Presentation at *Transparency and Explanations in Smart Systems (TExSS) Workshop at ACM IUI 2021* (April, 2021)
 
 Doctoral Consortium at *ACM FAccT 2021* (March, 2021)
+
+Invited Talk at *Mittelstand 4.0-Kompetenzzentrum Saarbrücken* (February, 2021)
 
 
 
