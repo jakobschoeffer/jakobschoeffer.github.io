@@ -35,7 +35,7 @@ Presentation at *Transparency and Explanations in Smart Systems (TExSS) Workshop
 
 Doctoral Consortium at *ACM FAccT 2021* (March, 2021)
 
-Invited Talk at *Mittelstand 4.0-Kompetenzzentrum Saarbrücken* (February, 2021)
+Invited Talk @ *Mittelstand 4.0-Kompetenzzentrum Saarbrücken* (February, 2021)
 
 
 
