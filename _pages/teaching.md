@@ -5,4 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-An overview of my teaching activities. Still work in progress.
+An overview of my teaching activities.
+
+
+*Artificial Intelligence in Service Systems*, KIT, 2020–today
+
+*Fundamentals of Digital Services*, KIT, 2019–today
+
+*Markov Decision Models*, KIT, 2015–2016
+
+*Introduction to Operations Research I/II*, KIT, 2013–2016
