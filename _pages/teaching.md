@@ -5,9 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-An overview of my teaching activities.
-
-
 *Artificial Intelligence in Service Systems*, KIT, 2020–today
 
 *Fundamentals of Digital Services*, KIT, 2019–today
