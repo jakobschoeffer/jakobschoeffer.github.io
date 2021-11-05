@@ -11,8 +11,8 @@ An overview of my academic work.
 \[1\] Baier, L., Schloer, T., **Schoeffer, J.**, Kuehl, N. (2021). [*Detecting Concept Drift With Neural Network Model Uncertainty*](https://arxiv.org/pdf/2107.01873.pdf).
 
 ## Peer-Reviewed Publications
-\[7\] **Schoeffer, J.**,\* Ritchie, A.,\* Naggita, K.,\* Monachou, F.,\* Finocchiaro, J.,\* Juarez, M. (2021). [*Online Platforms and the Fair Exposure Problem Under Homophily*](https://jakobschoeffer.github.io/files/fair_exposure_eaamo_submission_78.pdf). ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO 2021)
-\\ \* denotes equal contribution
+\[7\] **Schoeffer, J.**,\* Ritchie, A.,\* Naggita, K.,\* Monachou, F.,\* Finocchiaro, J.,\* Juarez, M. (2021). [*Online Platforms and the Fair Exposure Problem Under Homophily*](https://jakobschoeffer.github.io/files/fair_exposure_eaamo_submission_78.pdf). ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO 2021)  
+\* denotes equal contribution
 
 \[6\] **Schoeffer, J.**, Machowski, Y., Kuehl, N. (2021). [*Perceptions of Fairness and Trustworthiness Based on Explanations in Human vs. Automated Decision-Making*](https://arxiv.org/pdf/2109.05792.pdf). 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
 
