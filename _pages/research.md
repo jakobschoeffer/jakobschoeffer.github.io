@@ -11,7 +11,9 @@ An overview of my academic work.
 \[1\] Baier, L., Schloer, T., **Schoeffer, J.**, Kuehl, N. (2021). [*Detecting Concept Drift With Neural Network Model Uncertainty*](https://arxiv.org/pdf/2107.01873.pdf).
 
 ## Peer-Reviewed Publications
-\[9\] **Schoeffer, J.**, Kuehl, N., Machowski, Y. (2022). *"There Is Not Enough Information": On the Effects of Transparency on Perceptions of Informational Fairness and Trustworthiness in Automated Decision Making*. ACM Conference on Fairness, Accountability, and Transparency (FAccT '22)
+\[10\] **Schoeffer, J.**, Kuehl, N., Machowski, Y. (2022). *"There Is Not Enough Information": On the Effects of Transparency on Perceptions of Informational Fairness and Trustworthiness in Automated Decision Making*. ACM Conference on Fairness, Accountability, and Transparency (FAccT '22)
+
+\[9\] **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. (2022). [*On the Relationship Between Explanations, Fairness Perceptions, and Decisions*](https://arxiv.org/pdf/2204.13156.pdf). ACM CHI 2022 Workshop on Human-Centered Explainable AI (HCXAI)
 
 \[8\] **Schoeffer, J.** (2022). *A Human-Centric Perspective on Fairness and Transparency in Algorithmic Decision-Making*. Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)
 
