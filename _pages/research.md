@@ -34,19 +34,19 @@ An overview of my academic work.
 
 ## Talks, Presentations, and Doctoral Consortia
 
-Presentation @ *Workshop on Human-Centered Explainable AI (HCXAI) at ACM CHI 2022* (May, 2022)
+Paper Presentation @ *Workshop on Human-Centered Explainable AI (HCXAI) at ACM CHI 2022* (May, 2022)
 
 Doctoral Consortium @ *ACM CHI 2022* (May, 2022)
 
-Presentation @ *HICSS-55* (January, 2022)
+Paper Presentation @ *HICSS-55* (January, 2022)
 
 Poster Presentation @ *ACM CSCW 2021* (October, 2021)
 
 Invited Talk @ *Medienakademie Köln* (September, 2021)
 
-Presentation @ *ACM COMPASS 2021* (June, 2021)
+Paper Presentation @ *ACM COMPASS 2021* (June, 2021)
 
-Presentation @ *Transparency and Explanations in Smart Systems (TExSS) Workshop at ACM IUI 2021* (April, 2021)
+Paper Presentation @ *Transparency and Explanations in Smart Systems (TExSS) Workshop at ACM IUI 2021* (April, 2021)
 
 Doctoral Consortium @ *ACM FAccT 2021* (March, 2021)
 
