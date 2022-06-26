@@ -15,7 +15,7 @@ An overview of my academic work.
 
 \[9\] **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. (2022). [*On the Relationship Between Explanations, Fairness Perceptions, and Decisions*](https://arxiv.org/pdf/2204.13156.pdf). ACM CHI 2022 Workshop on Human-Centered Explainable AI (HCXAI)
 
-\[8\] **Schoeffer, J.** (2022). *A Human-Centric Perspective on Fairness and Transparency in Algorithmic Decision-Making*. Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)
+\[8\] **Schoeffer, J.** (2022). [*A Human-Centric Perspective on Fairness and Transparency in Algorithmic Decision-Making*](https://arxiv.org/pdf/2205.00033.pdf). Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)
 
 \[7\] **Schoeffer, J.**, Machowski, Y., Kuehl, N. (2022). [*Perceptions of Fairness and Trustworthiness Based on Explanations in Human vs. Automated Decision-Making*](https://arxiv.org/pdf/2109.05792.pdf). 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
 
