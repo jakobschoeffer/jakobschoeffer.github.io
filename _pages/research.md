@@ -34,6 +34,8 @@ An overview of my academic work.
 
 ## Talks, Presentations, and Doctoral Consortia
 
+Paper Presentation @ *ACM FAccT 2022* (June, 2022)
+
 Paper Presentation @ *Workshop on Human-Centered Explainable AI (HCXAI) at ACM CHI 2022* (May, 2022)
 
 Doctoral Consortium @ *ACM CHI 2022* (May, 2022)
