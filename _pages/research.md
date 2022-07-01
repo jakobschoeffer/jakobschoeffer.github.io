@@ -37,7 +37,11 @@ Paper Presentation @ *Workshop on Human-Centered Explainable AI (HCXAI) at ACM C
 
 Doctoral Consortium @ *ACM CHI 2022* (May, 2022)
 
+Invited Talk @ *McCombs School of Business at UT Austin* (April, 2022)
+
 Paper Presentation @ *HICSS-55* (January, 2022)
+
+Invited Talk @ *KIT Speaker Series* (November, 2021)
 
 Poster Presentation @ *ACM CSCW 2021* (October, 2021)
 
