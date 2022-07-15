@@ -7,7 +7,7 @@ author_profile: true
 
 *Artificial Intelligence in Service Systems*, KIT, 2020–today
 
-*Fundamentals of Digital Services*, KIT, 2019–today
+*Digital Services: Foundations*, KIT, 2019–today
 
 *Markov Decision Models*, KIT, 2015–2016
 
