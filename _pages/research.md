@@ -8,7 +8,7 @@ author_profile: true
 An overview of my academic work.
 
 ## Peer-Reviewed Publications
-\[1\] Jakubik, J., **Schoeffer, J.**, Hoge, V., Voessing, M., Kuehl, N. (2022). [*An Empirical Evaluation of Estimated Outcomes as Explanations in Human-AI Decision-Making*](https://arxiv.org/pdf/2208.04181.pdf). ECML PKDD International Workshop on Explainable Knowledge Discovery in Data Mining (XKDD)
+\[1\] Jakubik, J., **Schoeffer, J.**, Hoge, V., Voessing, M., Kuehl, N. (2022). [*An Empirical Evaluation of Predicted Outcomes as Explanations in Human-AI Decision-Making*](https://arxiv.org/pdf/2208.04181.pdf). ECML PKDD International Workshop on Explainable Knowledge Discovery in Data Mining (XKDD)
 
 \[2\] **Schoeffer, J.**, Kuehl, N., Machowski, Y. (2022). [*"There Is Not Enough Information": On the Effects of Transparency on Perceptions of Informational Fairness and Trustworthiness in Automated Decision Making*](https://arxiv.org/pdf/2205.05758.pdf). ACM Conference on Fairness, Accountability, and Transparency (FAccT '22)
 
