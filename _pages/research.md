@@ -33,6 +33,8 @@ An overview of my academic work.
 
 ## Talks, Presentations, and Doctoral Consortia
 
+Poster Presentation @ *Karlsruhe Service Summit 2022* (October, 2022)
+
 Paper Presentation @ *ACM FAccT 2022* (June, 2022)
 
 Paper Presentation @ *Workshop on Human-Centered Explainable AI (HCXAI) at ACM CHI 2022* (May, 2022)
