@@ -33,6 +33,8 @@ An overview of my academic work.
 
 ## Talks, Presentations, and Doctoral Consortia
 
+Invited Talk @ *Vienna University of Economics and Business (WU Wien)* (November, 2022)
+
 Poster Presentation @ *Karlsruhe Service Summit 2022* (October, 2022)
 
 Paper Presentation @ *ACM FAccT 2022* (June, 2022)
