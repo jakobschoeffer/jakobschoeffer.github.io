@@ -9,5 +9,5 @@ Hi there! I am currently a 4th-year PhD student at Karlsruhe Institute of Techno
 ## News
 
 - \[Nov '22\] [Alex](https://aritchie9590.github.io/), Keziah, [Faidra](https://faidramonachou.github.io/), [Jessie](https://jfinocchiaro.github.io/), [Marc](https://mjuarezm.github.io/), and I had a [paper](https://arxiv.org/pdf/2202.09727.pdf) accepted to [AAAI '23](https://aaai.org/Conferences/AAAI-23/)
-- Nov '22: I gave an invited talk at WU Wien, hosted by [Christian Haas](https://bach.wu.ac.at/d/research/ma/18957/)
-- Nov '22: Started posting news here :)
+- \[Nov '22\] I gave an invited talk at WU Wien, hosted by [Christian Haas](https://bach.wu.ac.at/d/research/ma/18957/)
+- \[Nov '22\] Started posting news here :)
