@@ -9,5 +9,5 @@ Hi there! I am currently a 4th-year PhD student at Karlsruhe Institute of Techno
 ## News
 
 - Nov '22: Alex, Keziah, Faidra, Jessie, Marc, and I had a paper accepted to AAAI '23
-- Nov '22: I gave an invited talk at WU Wien, hosted by Christian Haas
+- Nov '22: I gave an invited talk at WU Wien, hosted by [Christian Haas](https://bach.wu.ac.at/d/research/ma/18957/)
 - Nov '22: Started posting news here :)
