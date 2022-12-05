@@ -33,7 +33,7 @@ An overview of my academic work.
 
 ## Talks, Presentations, and Doctoral Consortia
 
-Panel Presentation @ *Human-Machine Collaboration in a Changing World (HMC22) Workshop* &mdash Paris (December, 2022)
+Panel Presentation @ *Human-Machine Collaboration in a Changing World (HMC22) Workshop* — Paris (December, 2022)
 
 Invited Talk @ *Vienna University of Economics and Business (WU Wien)* -- Vienna (November, 2022)
 
