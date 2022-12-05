@@ -35,33 +35,33 @@ An overview of my academic work.
 
 Panel Presentation @ *Human-Machine Collaboration in a Changing World (HMC22) Workshop* — Paris (December, 2022)
 
-Invited Talk @ *Vienna University of Economics and Business (WU Wien)* -- Vienna (November, 2022)
+Invited Talk @ *Vienna University of Economics and Business (WU Wien)* — Vienna (November, 2022)
 
-Poster Presentation @ *Karlsruhe Service Summit 2022* -- Karlsruhe (October, 2022)
+Poster Presentation @ *Karlsruhe Service Summit 2022* — Karlsruhe (October, 2022)
 
-Paper Presentation @ *ACM FAccT 2022* -- Seoul (June, 2022)
+Paper Presentation @ *ACM FAccT 2022* — Seoul (June, 2022)
 
-Paper Presentation @ *Workshop on Human-Centered Explainable AI (HCXAI) at ACM CHI 2022* -- New Orleans, LA (May, 2022)
+Paper Presentation @ *Workshop on Human-Centered Explainable AI (HCXAI) at ACM CHI 2022* — New Orleans, LA (May, 2022)
 
-Doctoral Consortium @ *ACM CHI 2022* -- New Orleans, LA (May, 2022)
+Doctoral Consortium @ *ACM CHI 2022* — New Orleans, LA (May, 2022)
 
-Invited Talk @ *McCombs School of Business at UT Austin* -- Austin, TX (April, 2022)
+Invited Talk @ *McCombs School of Business at UT Austin* — Austin, TX (April, 2022)
 
-Paper Presentation @ *HICSS-55*, virtual (January, 2022)
+Paper Presentation @ *HICSS-55* — virtual (January, 2022)
 
-Invited Talk @ *KIT Speaker Series* -- Karlsruhe (November, 2021)
+Invited Talk @ *KIT Speaker Series* — Karlsruhe (November, 2021)
 
-Poster Presentation @ *ACM CSCW 2021* -- virtual (October, 2021)
+Poster Presentation @ *ACM CSCW 2021* — virtual (October, 2021)
 
-Invited Talk @ *Medienakademie Köln* -- Cologne (September, 2021)
+Invited Talk @ *Medienakademie Köln* — Cologne (September, 2021)
 
-Paper Presentation @ *ACM COMPASS 2021* -- virtual (June, 2021)
+Paper Presentation @ *ACM COMPASS 2021* — virtual (June, 2021)
 
-Paper Presentation @ *Transparency and Explanations in Smart Systems (TExSS) Workshop at ACM IUI 2021* -- virtual (April, 2021)
+Paper Presentation @ *Transparency and Explanations in Smart Systems (TExSS) Workshop at ACM IUI 2021* — virtual (April, 2021)
 
-Doctoral Consortium @ *ACM FAccT 2021* -- virtual (March, 2021)
+Doctoral Consortium @ *ACM FAccT 2021* — virtual (March, 2021)
 
-Invited Talk @ *Mittelstand 4.0-Kompetenzzentrum Saarbrücken* -- virtual (February, 2021)
+Invited Talk @ *Mittelstand 4.0-Kompetenzzentrum Saarbrücken* — virtual (February, 2021)
 
 
 
