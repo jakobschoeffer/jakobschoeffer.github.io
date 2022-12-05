@@ -55,13 +55,13 @@ Poster Presentation @ *ACM CSCW 2021* -- virtual (October, 2021)
 
 Invited Talk @ *Medienakademie Köln* -- Cologne (September, 2021)
 
-Paper Presentation @ *ACM COMPASS 2021* — virtual (June, 2021)
+Paper Presentation @ *ACM COMPASS 2021* -- virtual (June, 2021)
 
-Paper Presentation @ *Transparency and Explanations in Smart Systems (TExSS) Workshop at ACM IUI 2021* — virtual (April, 2021)
+Paper Presentation @ *Transparency and Explanations in Smart Systems (TExSS) Workshop at ACM IUI 2021* -- virtual (April, 2021)
 
-Doctoral Consortium @ *ACM FAccT 2021* — virtual (March, 2021)
+Doctoral Consortium @ *ACM FAccT 2021* -- virtual (March, 2021)
 
-Invited Talk @ *Mittelstand 4.0-Kompetenzzentrum Saarbrücken* — virtual (February, 2021)
+Invited Talk @ *Mittelstand 4.0-Kompetenzzentrum Saarbrücken* -- virtual (February, 2021)
 
 
 
