@@ -8,7 +8,7 @@ author_profile: true
 An overview of my academic work.
 
 ## Peer-Reviewed Publications
-\[1\] **Schoeffer, J.**,\* Ritchie, A.,\* Naggita, K.,\* Monachou, F.,\* Finocchiaro, J.,\* Juarez, M. (2023). [*Online Platforms and the Fair Exposure Problem Under Homophily*](https://arxiv.org/pdf/2202.09727.pdf). Accepted at the 37<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI-23)\
+\[1\] **Schoeffer, J.**,\* Ritchie, A.,\* Naggita, K.,\* Monachou, F.,\* Finocchiaro, J.,\* Juarez, M. (2023). [*Online Platforms and the Fair Exposure Problem Under Homophily*](https://arxiv.org/pdf/2202.09727.pdf). 37<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI-23)\
 \* denotes equal contribution
 
 \[2\] Jakubik, J., **Schoeffer, J.**, Hoge, V., Voessing, M., Kuehl, N. (2022). [*An Empirical Evaluation of Predicted Outcomes as Explanations in Human-AI Decision-Making*](https://arxiv.org/pdf/2208.04181.pdf). ECML PKDD International Workshop on Explainable Knowledge Discovery in Data Mining (XKDD)
