@@ -8,6 +8,7 @@ Hi there! I am currently a 4th-year PhD student at Karlsruhe Institute of Techno
 
 ## News
 
+- \[Apr '23\] [Johannes](https://dsi.iism.kit.edu/team_jakubik.php), [Michael](https://dsi.iism.kit.edu/team_voessing.php), [Niklas](https://nkukit.github.io/), [Gerhard](https://dsi.iism.kit.edu/team_satzger.php), and I had a paper accepted to [HHAI '23](https://www.hhai-conference.org/)
 - \[Mar '23\] Our joint work with [Maria](https://mariadearteaga.com/) and [Niklas](https://nkukit.github.io/) will be presented at the [TRAIT Workshop @ CHI '23](https://chi-trait.github.io/#/) as well as [SCECR '23](https://scecr.com/)
 - \[Dec '22\] I presented some of my current research at the [HMC22 Workshop](https://algorithmicfutures.org/hmc22/) in Paris
 - \[Nov '22\] [Alex](https://aritchie9590.github.io/), Keziah, [Faidra](https://faidramonachou.github.io/), [Jessie](https://jfinocchiaro.github.io/), [Marc](https://mjuarezm.github.io/), and I had a [paper](https://arxiv.org/pdf/2202.09727.pdf) accepted to [AAAI '23](https://aaai.org/Conferences/AAAI-23/)
