@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" #, "air", "aqua", "dark", "default", "dirt
 locale                   : "en-US"
 title                    : "Jakob Schoeffer"
 title_separator          : "|"
-subtitle                 : PhD Student @ KIT # site tagline that appears below site title in masthead
+subtitle                 : Postdoc @ UT Austin # site tagline that appears below site title in masthead
 name                     : "Jakob Schoeffer"
 description              : "Jakob Schoeffer's personal page."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -97,7 +97,7 @@ author:
   name             : # "Jakob Schoeffer"
   avatar           : "/assets/images/Profile_Jakob_square.png"
   bio              : # "PhD Student @ KIT"
-  location         : "Karlsruhe, Germany"
+  location         : "Austin, TX, USA"
   email            :
   links:
     - label: "Email"
