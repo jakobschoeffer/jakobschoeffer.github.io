@@ -41,6 +41,8 @@ An overview of my academic work. \* denotes equal contribution.
 
 ## Talks, Presentations, and Doctoral Consortia
 
+\[Aug '23\] Invited Talk @ *Microsoft Research* -- Redmond, WA
+
 \[Apr '23\] Paper Presentation @ *Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT) at ACM CHI 2023* -- Hamburg
 
 \[Apr '23\] Invited Talk @ *MILA & Vector Institute* -- virtual
