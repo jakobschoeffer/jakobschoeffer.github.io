@@ -5,39 +5,39 @@ permalink: /research/
 author_profile: true
 ---
 
-An overview of my academic work.
+An overview of my academic work. \* denotes equal contribution.
 
 ## Peer-Reviewed Publications
 
-\[1\] **Schoeffer, J.**,\* Jakubik, J.,\* Voessing, M., Kuehl, N., Satzger, G. (2023). [*On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making*](https://arxiv.org/pdf/2304.08804.pdf). Hybrid Human Artificial Intelligence 2023 (HHAI)\
-\* denotes equal contribution
+\[1\] Deck, L., **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. (2023). [*A critical survey on fairness benefits of XAI*](https://arxiv.org/pdf/2310.13007.pdf). NeurIPS Workshop on XAI in Action (XAIA)
 
-\[2\] **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. (2023). [*On Explanations, Fairness, and Appropriate Reliance in Human-AI Decision-Making*](https://arxiv.org/pdf/2209.11812.pdf). ACM CHI 2023 Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT)
+\[2\] **Schoeffer, J.**,\* Jakubik, J.,\* Voessing, M., Kuehl, N., Satzger, G. (2023). [*On the interdependence of reliance behavior and accuracy in AI-assisted decision-making*](https://arxiv.org/pdf/2304.08804.pdf). Hybrid Human Artificial Intelligence 2023 (HHAI)
 
-\[3\] **Schoeffer, J.**,\* Ritchie, A.,\* Naggita, K.,\* Monachou, F.,\* Finocchiaro, J.,\* Juarez, M. (2023). [*Online Platforms and the Fair Exposure Problem Under Homophily*](https://arxiv.org/pdf/2202.09727.pdf). 37<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI-23)\
-\* denotes equal contribution
+\[3\] **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. (2023). [*On explanations, fairness, and appropriate reliance in human-AI decision-making*](https://arxiv.org/pdf/2209.11812.pdf). ACM CHI 2023 Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT)
 
-\[4\] Baier, L., Schloer, T., **Schoeffer, J.**, Kuehl, N. (2023). [*Detecting Concept Drift With Neural Network Model Uncertainty*](https://arxiv.org/pdf/2107.01873.pdf). 56<sup>th</sup> Hawaii International Conference on System Sciences 2023 (HICSS-56)
+\[4\] **Schoeffer, J.**,\* Ritchie, A.,\* Naggita, K.,\* Monachou, F.,\* Finocchiaro, J.,\* Juarez, M. (2023). [*Online platforms and the fair exposure problem under homophily*](https://arxiv.org/pdf/2202.09727.pdf). 37<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI-23)
 
-\[5\] Jakubik, J., **Schoeffer, J.**, Hoge, V., Voessing, M., Kuehl, N. (2022). [*An Empirical Evaluation of Predicted Outcomes as Explanations in Human-AI Decision-Making*](https://arxiv.org/pdf/2208.04181.pdf). ECML PKDD International Workshop on Explainable Knowledge Discovery in Data Mining (XKDD)
+\[5\] Baier, L., Schloer, T., **Schoeffer, J.**, Kuehl, N. (2023). [*Detecting concept drift with neural network model uncertainty*](https://arxiv.org/pdf/2107.01873.pdf). 56<sup>th</sup> Hawaii International Conference on System Sciences 2023 (HICSS-56)
 
-\[6\] **Schoeffer, J.**, Kuehl, N., Machowski, Y. (2022). [*"There Is Not Enough Information": On the Effects of Transparency on Perceptions of Informational Fairness and Trustworthiness in Automated Decision Making*](https://arxiv.org/pdf/2205.05758.pdf). ACM Conference on Fairness, Accountability, and Transparency (FAccT '22)
+\[6\] Jakubik, J., **Schoeffer, J.**, Hoge, V., Voessing, M., Kuehl, N. (2022). [*An empirical evaluation of predicted outcomes as explanations in human-AI decision-making*](https://arxiv.org/pdf/2208.04181.pdf). ECML PKDD International Workshop on Explainable Knowledge Discovery in Data Mining (XKDD)
 
-\[7\] **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. (2022). [*On the Relationship Between Explanations, Fairness Perceptions, and Decisions*](https://arxiv.org/pdf/2204.13156.pdf). ACM CHI 2022 Workshop on Human-Centered Explainable AI (HCXAI)
+\[7\] **Schoeffer, J.**, Kuehl, N., Machowski, Y. (2022). [*"There is not enough information": On the effects of transparency on perceptions of informational fairness and trustworthiness in automated decision making*](https://arxiv.org/pdf/2205.05758.pdf). ACM Conference on Fairness, Accountability, and Transparency (FAccT '22)
 
-\[8\] **Schoeffer, J.** (2022). [*A Human-Centric Perspective on Fairness and Transparency in Algorithmic Decision-Making*](https://arxiv.org/pdf/2205.00033.pdf). Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)
+\[8\] **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. (2022). [*On the relationship between explanations, fairness perceptions, and decisions*](https://arxiv.org/pdf/2204.13156.pdf). ACM CHI 2022 Workshop on Human-Centered Explainable AI (HCXAI)
 
-\[9\] **Schoeffer, J.**, Machowski, Y., Kuehl, N. (2022). [*Perceptions of Fairness and Trustworthiness Based on Explanations in Human vs. Automated Decision-Making*](https://arxiv.org/pdf/2109.05792.pdf). 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
+\[9\] **Schoeffer, J.** (2022). [*A human-centric perspective on fairness and transparency in algorithmic decision-making*](https://arxiv.org/pdf/2205.00033.pdf). Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)
 
-\[10\] Hemmer, P., Kuehl, N., **Schoeffer, J.** (2022). [*Utilizing Active Machine Learning for Quality Assurance: A Case Study of Virtual Car Renderings in the Automotive Industry*](https://arxiv.org/pdf/2110.09023.pdf). 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
+\[10\] **Schoeffer, J.**, Machowski, Y., Kuehl, N. (2022). [*Perceptions of fairness and trustworthiness based on explanations in human vs. automated decision-making*](https://arxiv.org/pdf/2109.05792.pdf). 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
 
-\[11\] **Schoeffer, J.**, Kuehl, N. (2021). [*Appropriate Fairness Perceptions? On the Effectiveness of Explanations in Enabling People to Assess the Fairness of Automated Decision Systems*](https://arxiv.org/pdf/2108.06500.pdf). Companion Publication of the 24<sup>th</sup> ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’21 Companion)
+\[11\] Hemmer, P., Kuehl, N., **Schoeffer, J.** (2022). [*Utilizing active machine learning for quality assurance: A case study of virtual car renderings in the automotive industry*](https://arxiv.org/pdf/2110.09023.pdf). 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
 
-\[12\] **Schoeffer, J.**, Kuehl, N., Valera, I. (2021). [*A Ranking Approach to Fair Classification*](https://arxiv.org/pdf/2102.04565.pdf). ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS '21)
+\[12\] **Schoeffer, J.**, Kuehl, N. (2021). [*Appropriate fairness perceptions? On the effectiveness of explanations in enabling people to assess the fairness of automated decision systems*](https://arxiv.org/pdf/2108.06500.pdf). Companion Publication of the 24<sup>th</sup> ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’21 Companion)
 
-\[13\] **Schoeffer, J.**, Machowski, Y., Kuehl, N. (2021). [*A Study on Fairness and Trust Perceptions in Automated Decision Making*](https://arxiv.org/pdf/2103.04757.pdf). Transparency and Explanations in Smart Systems (TExSS) Workshop at the 26<sup>th</sup> Annual Conference on Intelligent User Interfaces (ACM IUI '21)
+\[13\] **Schoeffer, J.**, Kuehl, N., Valera, I. (2021). [*A ranking approach to fair classification*](https://arxiv.org/pdf/2102.04565.pdf). ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS '21)
 
-\[14\] Hemmer, P., Kuehl, N., **Schoeffer, J.** (2020). [*DEAL: Deep Evidential Active Learning for Image Classification*](https://arxiv.org/pdf/2007.11344.pdf). 19<sup>th</sup> IEEE International Conference on Machine Learning and Applications (ICMLA '20)
+\[14\] **Schoeffer, J.**, Machowski, Y., Kuehl, N. (2021). [*A study on fairness and trust perceptions in automated decision making*](https://arxiv.org/pdf/2103.04757.pdf). Transparency and Explanations in Smart Systems (TExSS) Workshop at the 26<sup>th</sup> Annual Conference on Intelligent User Interfaces (ACM IUI '21)
+
+\[15\] Hemmer, P., Kuehl, N., **Schoeffer, J.** (2020). [*DEAL: Deep evidential active learning for image classification*](https://arxiv.org/pdf/2007.11344.pdf). 19<sup>th</sup> IEEE International Conference on Machine Learning and Applications (ICMLA '20)
 
 ## Talks, Presentations, and Doctoral Consortia
 
