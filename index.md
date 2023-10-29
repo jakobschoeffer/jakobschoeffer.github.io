@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-Hi there! I am currently a postdoctoral researcher at the University of Texas at Austin. Broadly speaking, I am interested in problems that arise when humans and algorithms interact; specifically around fairness and transparency in AI-informed decision-making. Most recently, I have been conducting behavioral experiments to assess how transparency interventions impact (i) people's fairness perceptions, (ii) their reliance on AI recommendations, and (iii) fairness of outcomes in human-AI decision-making.
+Hi there! I am currently a postdoctoral researcher at the University of Texas at Austin. Broadly speaking, I am interested in problems that arise when humans and algorithms interact; specifically around transparency and fairness in human-AI collaborative decision-making. 
 
 ## News
 
