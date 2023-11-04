@@ -41,6 +41,8 @@ An overview of my academic work. \* denotes equal contribution.
 
 ## Talks, Presentations, and Doctoral Consortia
 
+\[Oct '23\] Poster Presentation @ *ACM EAAMO 2023* -- Boston, MA
+
 \[Aug '23\] Invited Talk @ *Microsoft Research* -- Redmond, WA
 
 \[Apr '23\] Paper Presentation @ *Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT) at ACM CHI 2023* -- Hamburg
