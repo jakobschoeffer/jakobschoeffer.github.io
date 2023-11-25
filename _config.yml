@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Jakob Schoeffer"
+  name             : "Jakob Schoeffer"
   avatar           : "/assets/images/Profile_Jakob_square.png"
   bio              : # "PhD Student @ KIT"
   location         : "Austin, TX"
