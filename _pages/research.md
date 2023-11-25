@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-An overview of my academic work. \* denotes equal contribution.
+An overview of my academic work.
+
+\* denotes equal contribution.
 
 ## Peer-Reviewed Publications
 
