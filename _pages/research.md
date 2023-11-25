@@ -43,11 +43,11 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 ## Talks, Presentations, and Doctoral Consortia
 
-**Oct '23.** &nbsp; Poster @ *ACM EAAMO 2023* 📍Boston, MA 🇺🇸
+**Oct '23.** &nbsp; Poster @ *ACM EAAMO '23* 📍Boston, MA 🇺🇸
 
 **Aug '23.** &nbsp; Invited Talk @ *Microsoft Research* 📍Redmond, WA 🇺🇸
 
-**Apr '23.** &nbsp; Paper @ *Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT) at ACM CHI 2023* 📍Hamburg 🇩🇪
+**Apr '23.** &nbsp; Paper @ *Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT) at ACM CHI '23* 📍Hamburg 🇩🇪
 
 **Apr '23.** &nbsp; Invited Talk @ *MILA & Vector Institute* 📍virtual
 
@@ -55,13 +55,13 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 **Nov '22.** &nbsp; Invited Talk @ *Vienna University of Economics and Business (WU Wien)* 📍Vienna 🇦🇹
 
-**Oct '22.** &nbsp; Poster @ *Karlsruhe Service Summit 2022* 📍Karlsruhe 🇩🇪
+**Oct '22.** &nbsp; Poster @ *Karlsruhe Service Summit '22* 📍Karlsruhe 🇩🇪
 
-**Jun '22.** &nbsp; Paper @ *ACM FAccT 2022* 📍Seoul 🇰🇷
+**Jun '22.** &nbsp; Paper @ *ACM FAccT '22* 📍Seoul 🇰🇷
 
-**May '22.** &nbsp; Paper @ *Workshop on Human-Centered Explainable AI (HCXAI) at ACM CHI 2022* 📍New Orleans, LA 🇺🇸
+**May '22.** &nbsp; Paper @ *Workshop on Human-Centered Explainable AI (HCXAI) at ACM CHI '22* 📍New Orleans, LA 🇺🇸
 
-**May '22.** &nbsp; Doctoral Consortium @ *ACM CHI 2022* 📍New Orleans, LA 🇺🇸
+**May '22.** &nbsp; Doctoral Consortium @ *ACM CHI '22* 📍New Orleans, LA 🇺🇸
 
 **Apr '22.** &nbsp; Invited Talk @ *McCombs School of Business at UT Austin* 📍Austin, TX 🇺🇸
 
@@ -69,15 +69,15 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 **Nov '21.** &nbsp; Invited Talk @ *KIT Speaker Series* 📍Karlsruhe 🇩🇪
 
-**Oct '21.** &nbsp; Poster @ *ACM CSCW 2021* 📍virtual
+**Oct '21.** &nbsp; Poster @ *ACM CSCW '21* 📍virtual
 
 **Sep '21.** &nbsp; Invited Talk @ *Medienakademie Köln* 📍Cologne 🇩🇪
 
-**Jun '21.** &nbsp; Paper @ *ACM COMPASS 2021* 📍virtual
+**Jun '21.** &nbsp; Paper @ *ACM COMPASS '21* 📍virtual
 
-**Apr '21.** &nbsp; Paper @ *Transparency and Explanations in Smart Systems (TExSS) Workshop at ACM IUI 2021* 📍virtual
+**Apr '21.** &nbsp; Paper @ *Transparency and Explanations in Smart Systems (TExSS) Workshop at ACM IUI '21* 📍virtual
 
-**Mar '21.** &nbsp; Doctoral Consortium @ *ACM FAccT 2021* 📍virtual
+**Mar '21.** &nbsp; Doctoral Consortium @ *ACM FAccT '21* 📍virtual
 
 **Feb '21.** &nbsp; Invited Talk @ *Mittelstand 4.0-Kompetenzzentrum Saarbrücken* 📍virtual
 
