@@ -5,9 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-An overview of my academic work.
+\* denotes equal contribution
 
-\* denotes equal contribution.
+🏆 denotes best paper award
+
 
 ## Peer-Reviewed Publications
 
