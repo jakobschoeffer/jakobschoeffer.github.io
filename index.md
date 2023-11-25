@@ -16,7 +16,7 @@ Hi there! I am currently a postdoctoral researcher at the University of Texas at
 
 **Jul '23.** &nbsp; Our <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">paper</a> got accepted as a non-archival poster at <a href="https://eaamo.org/#home" style="text-decoration:none">ACM EAAMO '23</a>.
 
-**Jun '23.** &nbsp; Our HHAI '23 [paper](https://arxiv.org/pdf/2304.08804.pdf) won the best paper award 🎉
+**Jun '23.** &nbsp; Our HHAI '23 <a href="[https://arxiv.org/pdf/2209.11812.pdf](https://arxiv.org/pdf/2304.08804.pdf)" style="text-decoration:none">paper</a> won the best paper award 🎉
 
 **May '23.** &nbsp; I started a research internship with Microsoft in Redmond, WA.
 
