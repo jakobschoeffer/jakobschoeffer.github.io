@@ -5,12 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-\* denotes equal contribution
-
-🏆 denotes best paper award
-
+An overview of my academic work to date.
 
 ## Peer-Reviewed Publications
+
+\* equal contribution; 🏆 best paper award
 
 \[1\] Deck, L., **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. (2023). [*A critical survey on fairness benefits of XAI*](https://arxiv.org/pdf/2310.13007.pdf). NeurIPS Workshop on XAI in Action (XAIA)
 
