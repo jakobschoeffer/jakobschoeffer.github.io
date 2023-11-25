@@ -8,7 +8,7 @@ Hi there! I am currently a postdoctoral researcher at the University of Texas at
 
 ## News
 
-**Oct '23.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2310.13007.pdf" style="text-decoration:none">work</a> with [Luca](https://www.fim-rc.de/wiss_mitarbeitende/luca-deck/), [Maria](https://mariadearteaga.com/), and [Niklas](https://nkukit.github.io/) was accepted to the [XAIA Workshop @ NeurIPS '23](https://xai-in-action.github.io/) and will be presented in New Orleans in December.
+**Oct '23.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2310.13007.pdf" style="text-decoration:none">work</a> with <a href="https://www.linkedin.com/in/luca-deck-93757a1a4/" style="text-decoration:none">Luca</a>, <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a>, and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> was accepted to the <a href="https://xai-in-action.github.io/" style="text-decoration:none">XAIA Workshop @ NeurIPS '23</a> and will be presented in New Orleans in December.
 
 **Oct '23.** &nbsp; I started a postdoc position at UT Austin, working closely with [Maria De-Arteaga](https://mariadearteaga.com/) on clinical human-AI decision-making.
 
