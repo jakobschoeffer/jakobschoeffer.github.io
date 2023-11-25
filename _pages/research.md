@@ -47,7 +47,7 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 **Aug '23.** &nbsp; Invited Talk @ *Microsoft Research* &nbsp; 📍Redmond, WA 🇺🇸
 
-**Apr '23.** &nbsp; Paper Presentation @ *Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT) at ACM CHI 2023* -- Hamburg
+**Apr '23.** &nbsp; Paper Presentation @ *Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT) at ACM CHI 2023* &nbsp; 📍Hamburg 🇩🇪
 
 **Apr '23.** &nbsp; Invited Talk @ *MILA & Vector Institute* -- virtual
 
