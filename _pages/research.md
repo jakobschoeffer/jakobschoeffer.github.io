@@ -43,7 +43,7 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 ## Talks, Presentations, and Doctoral Consortia
 
-**Oct '23.** &nbsp; Poster Presentation @ *ACM EAAMO 2023* <br> 📍Boston, MA 🇺🇸
+**Oct '23.** &nbsp; Poster Presentation @ *ACM EAAMO 2023* <br> 📍Boston, MA 🇺🇸 <button name="button" onclick="http://www.google.com">Click me</button>
 
 **Aug '23.** &nbsp; Invited Talk @ *Microsoft Research* <br> 📍Redmond, WA 🇺🇸
 
