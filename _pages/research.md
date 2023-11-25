@@ -43,9 +43,9 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 ## Talks, Presentations, and Doctoral Consortia
 
-**Oct '23.** &nbsp; Poster Presentation @ *ACM EAAMO 2023* &nbsp; 📍Boston, MA
+**Oct '23.** &nbsp; Poster Presentation @ *ACM EAAMO 2023* &nbsp; 📍Boston, MA 🇺🇸
 
-**Aug '23.** &nbsp; Invited Talk @ *Microsoft Research* -- Redmond, WA
+**Aug '23.** &nbsp; Invited Talk @ *Microsoft Research* &nbsp; 📍Redmond, WA 🇺🇸
 
 **Apr '23.** &nbsp; Paper Presentation @ *Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT) at ACM CHI 2023* -- Hamburg
 
