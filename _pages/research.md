@@ -43,43 +43,43 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 ## Talks, Presentations, and Doctoral Consortia
 
-\[Oct '23\] Poster Presentation @ *ACM EAAMO 2023* -- Boston, MA
+**Oct '23.** &nbsp; Poster Presentation @ *ACM EAAMO 2023* -- Boston, MA
 
-\[Aug '23\] Invited Talk @ *Microsoft Research* -- Redmond, WA
+**Aug '23.** &nbsp; Invited Talk @ *Microsoft Research* -- Redmond, WA
 
-\[Apr '23\] Paper Presentation @ *Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT) at ACM CHI 2023* -- Hamburg
+**Apr '23.** &nbsp; Paper Presentation @ *Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT) at ACM CHI 2023* -- Hamburg
 
-\[Apr '23\] Invited Talk @ *MILA & Vector Institute* -- virtual
+**Apr '23.** &nbsp; Invited Talk @ *MILA & Vector Institute* -- virtual
 
-\[Dec '22\] Panel Presentation @ *Human-Machine Collaboration in a Changing World (HMC22) Workshop* -- Paris
+**Dec '22.** &nbsp; Panel Presentation @ *Human-Machine Collaboration in a Changing World (HMC22) Workshop* -- Paris
 
-\[Nov '22\] Invited Talk @ *Vienna University of Economics and Business (WU Wien)* -- Vienna
+**Nov '22.** &nbsp; Invited Talk @ *Vienna University of Economics and Business (WU Wien)* -- Vienna
 
-\[Oct '22\] Poster Presentation @ *Karlsruhe Service Summit 2022* -- Karlsruhe
+**Oct '22.** &nbsp; Poster Presentation @ *Karlsruhe Service Summit 2022* -- Karlsruhe
 
-\[Jun '22\] Paper Presentation @ *ACM FAccT 2022* -- Seoul
+**Jun '22.** &nbsp; Paper Presentation @ *ACM FAccT 2022* -- Seoul
 
-\[May '22\] Paper Presentation @ *Workshop on Human-Centered Explainable AI (HCXAI) at ACM CHI 2022* -- New Orleans, LA
+**May '22.** &nbsp; Paper Presentation @ *Workshop on Human-Centered Explainable AI (HCXAI) at ACM CHI 2022* -- New Orleans, LA
 
-\[May '22\] Doctoral Consortium @ *ACM CHI 2022* -- New Orleans, LA
+**May '22.** &nbsp; Doctoral Consortium @ *ACM CHI 2022* -- New Orleans, LA
 
-\[Apr '22\] Invited Talk @ *McCombs School of Business at UT Austin* -- Austin, TX
+**Apr '22.** &nbsp; Invited Talk @ *McCombs School of Business at UT Austin* -- Austin, TX
 
-\[Jan '22\] Paper Presentation @ *HICSS-55* -- virtual
+**Jan '22.** &nbsp; Paper Presentation @ *HICSS-55* -- virtual
 
-\[Nov '21\] Invited Talk @ *KIT Speaker Series* -- Karlsruhe
+**Nov '21.** &nbsp; Invited Talk @ *KIT Speaker Series* -- Karlsruhe
 
-\[Oct '21\] Poster Presentation @ *ACM CSCW 2021* -- virtual
+**Oct '21.** &nbsp; Poster Presentation @ *ACM CSCW 2021* -- virtual
 
-\[Sep '21\] Invited Talk @ *Medienakademie Köln* -- Cologne
+**Sep '21.** &nbsp; Invited Talk @ *Medienakademie Köln* -- Cologne
 
-\[Jun '21\] Paper Presentation @ *ACM COMPASS 2021* -- virtual
+**Jun '21.** &nbsp; Paper Presentation @ *ACM COMPASS 2021* -- virtual
 
-\[Apr '21\] Paper Presentation @ *Transparency and Explanations in Smart Systems (TExSS) Workshop at ACM IUI 2021* -- virtual
+**Apr '21.** &nbsp; Paper Presentation @ *Transparency and Explanations in Smart Systems (TExSS) Workshop at ACM IUI 2021* -- virtual
 
-\[Mar '21\] Doctoral Consortium @ *ACM FAccT 2021* -- virtual
+**Mar '21.** &nbsp; Doctoral Consortium @ *ACM FAccT 2021* -- virtual
 
-\[Feb '21\] Invited Talk @ *Mittelstand 4.0-Kompetenzzentrum Saarbrücken* -- virtual
+**Feb '21.** &nbsp; Invited Talk @ *Mittelstand 4.0-Kompetenzzentrum Saarbrücken* -- virtual
 
 
 
