@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-Hi there! I am currently a postdoctoral researcher at the University of Texas at Austin, working closely with Maria De-Arteaga. Broadly speaking, I am interested in problems that arise when humans and AI systems interact; specifically around transparency and fairness in human-AI collaborative decision-making. 
+Hi there! I am currently a postdoctoral research fellow at the University of Texas at Austin, working closely with Maria De-Arteaga. Broadly speaking, I am interested in problems that arise when humans and AI systems interact; specifically around transparency and fairness in human-AI collaborative decision-making. 
 
 ## News
 
