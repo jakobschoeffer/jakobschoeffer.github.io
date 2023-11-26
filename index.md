@@ -28,8 +28,8 @@ My main objective is to contribute to the responsible design and deployment of A
 
 **Dec '22.** &nbsp; I presented some of my current research at the <a href="https://algorithmicfutures.org/hmc22/" style="text-decoration:none">HMC22 Workshop</a> in Paris.
 
-**Nov '22.** &nbsp; [Alex](https://aritchie9590.github.io/), Keziah, [Faidra](https://faidramonachou.github.io/), [Jessie](https://jfinocchiaro.github.io/), [Marc](https://mjuarezm.github.io/), and I had a [paper](https://arxiv.org/pdf/2202.09727.pdf) accepted to [AAAI '23](https://aaai.org/Conferences/AAAI-23/).
+**Nov '22.** &nbsp; <a href="https://aritchie9590.github.io/" style="text-decoration:none">Alex</a>, Keziah, <a href="https://faidramonachou.github.io/" style="text-decoration:none">Faidra</a>, <a href="https://www.jessiefin.com/" style="text-decoration:none">Jessie</a>, <a href="https://mjuarezm.github.io/" style="text-decoration:none">Marc</a>, and I had a <a href="https://arxiv.org/pdf/2202.09727.pdf" style="text-decoration:none">paper</a> accepted to <a href="https://aaai.org/Conferences/AAAI-23/" style="text-decoration:none">AAAI '23</a>.
 
-**Nov '22.** &nbsp; I gave an invited talk at WU Wien, hosted by [Christian Haas](https://bach.wu.ac.at/d/research/ma/18957/).
+**Nov '22.** &nbsp; I gave an invited talk at <a href="https://www.wu.ac.at/" style="text-decoration:none">WU Wien</a>, hosted by <a href="https://www.linkedin.com/in/drchristianhaas/" style="text-decoration:none">Christian Haas</a>.
 
 **Nov '22.** &nbsp; Started posting news here 😊
