@@ -4,9 +4,7 @@ layout: single
 author_profile: true
 ---
 
-Hi there! I am currently a postdoctoral research fellow at the University of Texas at Austin, working closely with Maria De-Arteaga. Broadly speaking, I am interested in problems that arise when humans and AI systems interact, with a particular focus on transparency and fairness in high-stakes AI-informed decision-making.
-
-My main objective is to contribute to the responsible design and deployment of AI systems, fostering a more equitable and just society. To this end, I employ a multidisciplinary approach that integrates novel AI techniques with insights derived from behavioral research, utilizing a mix of quantitative and qualitative methods.
+Hi there! I am currently a postdoctoral research fellow at the University of Texas at Austin, working closely with Maria De-Arteaga. My research addresses problems that arise when humans and AI systems interact, with a particular focus on transparency and fairness in high-stakes AI-informed decision-making. My main objective is to contribute to the responsible design and deployment of AI systems, fostering a more equitable and just society. To this end, I employ a multidisciplinary approach that integrates novel AI techniques with insights derived from behavioral research, utilizing a mix of quantitative and qualitative methods.
 
 I graduated from Karlsruhe Institute of Technology (KIT) in Germany, supervised by Gerhard Satzger and Niklas Kuehl.
 
