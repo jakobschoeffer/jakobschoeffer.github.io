@@ -22,7 +22,7 @@ Hi there! I am currently a postdoctoral research fellow at the University of Tex
 
 **Apr '23.** &nbsp; <a href="http://www.johannesjakubik.com/" style="text-decoration:none">Johannes</a>, <a href="https://www.michaelvoessing.com/" style="text-decoration:none">Michael</a>, <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a>, <a href="https://www.linkedin.com/in/gerhardsatzger/" style="text-decoration:none">Gerhard</a>, and I had a <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">paper</a> accepted to <a href="https://www.hhai-conference.org/" style="text-decoration:none">HHAI '23</a>.
 
-**Mar '23.** &nbsp; Our joint [work](https://arxiv.org/pdf/2209.11812.pdf) with [Maria](https://mariadearteaga.com/) and [Niklas](https://nkukit.github.io/) will be presented at the [TRAIT Workshop @ CHI '23](https://chi-trait.github.io/#/) as well as [SCECR '23](https://scecr.com/).
+**Mar '23.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">work</a> with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a> and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> will be presented at the <a href="https://chi-trait.github.io/#/" style="text-decoration:none">TRAIT Workshop @ CHI '23</a>, as well as at <a href="https://scecr.com/" style="text-decoration:none">SCECR '23</a> and <a href="https://2023-aisola.isola-conference.org/" style="text-decoration:none">AISoLA '23</a>.
 
 **Dec '22.** &nbsp; I presented some of my current research at the [HMC22 Workshop](https://algorithmicfutures.org/hmc22/) in Paris.
 
