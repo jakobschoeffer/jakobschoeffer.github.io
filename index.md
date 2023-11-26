@@ -26,7 +26,7 @@ My main objective is to contribute to the responsible design and deployment of A
 
 **Mar '23.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">work</a> with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a> and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> will be presented at the <a href="https://chi-trait.github.io/#/" style="text-decoration:none">TRAIT Workshop @ CHI '23</a>, as well as at <a href="https://scecr.com/" style="text-decoration:none">SCECR '23</a> and <a href="https://2023-aisola.isola-conference.org/" style="text-decoration:none">AISoLA '23</a>.
 
-**Dec '22.** &nbsp; I presented some of my current research at the [HMC22 Workshop](https://algorithmicfutures.org/hmc22/) in Paris.
+**Dec '22.** &nbsp; I presented some of my current research at the <a href="https://algorithmicfutures.org/hmc22/" style="text-decoration:none">HMC22 Workshop</a> in Paris.
 
 **Nov '22.** &nbsp; [Alex](https://aritchie9590.github.io/), Keziah, [Faidra](https://faidramonachou.github.io/), [Jessie](https://jfinocchiaro.github.io/), [Marc](https://mjuarezm.github.io/), and I had a [paper](https://arxiv.org/pdf/2202.09727.pdf) accepted to [AAAI '23](https://aaai.org/Conferences/AAAI-23/).
 
