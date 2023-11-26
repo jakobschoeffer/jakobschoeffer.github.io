@@ -113,7 +113,7 @@ author:
     #   icon: "fab fa-fw fa-facebook-square"
     #   url: "https://facebook.com/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=5qzFEg4AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
