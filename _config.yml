@@ -116,7 +116,7 @@ author:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=5qzFEg4AAAAJ&hl=en"
     - label: "ResearchGate"
-      icon: "fas fa-fw fa-researchgate"
+      icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Jakob_Schoeffer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
