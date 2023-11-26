@@ -20,7 +20,7 @@ Hi there! I am currently a postdoctoral research fellow at the University of Tex
 
 **May '23.** &nbsp; I started a research internship with Microsoft in Redmond, WA.
 
-**Apr '23.** &nbsp; [Johannes](https://dsi.iism.kit.edu/team_jakubik.php), [Michael](https://dsi.iism.kit.edu/team_voessing.php), [Niklas](https://nkukit.github.io/), [Gerhard](https://dsi.iism.kit.edu/team_satzger.php), and I had a [paper](https://arxiv.org/pdf/2304.08804.pdf) accepted to [HHAI '23](https://www.hhai-conference.org/).
+**Apr '23.** &nbsp; <a href="http://www.johannesjakubik.com/" style="text-decoration:none">Johannes</a>, <a href="https://www.michaelvoessing.com/" style="text-decoration:none">Michael</a>, <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a>, <a href="https://www.linkedin.com/in/gerhardsatzger/" style="text-decoration:none">Gerhard</a>, and I had a <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">paper</a> accepted to <a href="https://www.hhai-conference.org/" style="text-decoration:none">HHAI '23</a>.
 
 **Mar '23.** &nbsp; Our joint [work](https://arxiv.org/pdf/2209.11812.pdf) with [Maria](https://mariadearteaga.com/) and [Niklas](https://nkukit.github.io/) will be presented at the [TRAIT Workshop @ CHI '23](https://chi-trait.github.io/#/) as well as [SCECR '23](https://scecr.com/).
 
