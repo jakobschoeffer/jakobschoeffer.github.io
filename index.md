@@ -14,7 +14,7 @@ My main objective is to contribute to the responsible design and deployment of A
 
 **Oct '23.** &nbsp; I started a postdoc position at UT Austin, working closely with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria De-Arteaga</a> on clinical human-AI decision-making.
 
-**Oct '23.** &nbsp; I defended my PhD thesis at KIT with the highest distinction (summa cum laude) 🎉
+**Oct '23.** &nbsp; I defended my <a href="https://doi.org/10.5445/IR/1000164741" style="text-decoration:none">PhD thesis</a> at KIT with the highest distinction (summa cum laude) 🎉
 
 **Jul '23.** &nbsp; Our <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">paper</a> got accepted as a non-archival poster at <a href="https://eaamo.org/#home" style="text-decoration:none">ACM EAAMO '23</a>.
 
