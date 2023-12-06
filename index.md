@@ -20,7 +20,7 @@ My main objective is to contribute to the responsible design and deployment of A
 
 **Jun '23.** &nbsp; Our HHAI '23 <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">paper</a> won the best paper award 🎉
 
-**May '23.** &nbsp; I started a research internship with Microsoft in Redmond, WA.
+**May '23.** &nbsp; I started a research internship with Microsoft in Redmond, WA, working on LLM-supported decision-making.
 
 **Apr '23.** &nbsp; <a href="http://www.johannesjakubik.com/" style="text-decoration:none">Johannes</a>, <a href="https://www.michaelvoessing.com/" style="text-decoration:none">Michael</a>, <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a>, <a href="https://www.linkedin.com/in/gerhardsatzger/" style="text-decoration:none">Gerhard</a>, and I had a <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">paper</a> accepted to <a href="https://www.hhai-conference.org/" style="text-decoration:none">HHAI '23</a>.
 
