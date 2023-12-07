@@ -8,6 +8,8 @@ Hi there! I am currently a postdoctoral research fellow at the University of Tex
 
 My main objective is to contribute to the responsible design and deployment of AI systems, fostering a more equitable and just society. To this end, I employ a multidisciplinary approach that integrates novel AI techniques with insights derived from behavioral research, utilizing a mix of quantitative and qualitative methods.
 
+I received my PhD from the Karlsruhe Institute of Technology (KIT) in Germany, where I wrote a thesis "On the Interplay of Transparency and Fairness in AI-Informed Decision-Making." I also hold a master's degree in Operations Research from Georgia Tech. As a doctoral student, I was fortunate to do a research internship with Microsoft in Redmond. Before embarking on my PhD journey, I gained valuable experience as a data scientist at IBM in New York.
+
 ## News
 
 **Oct '23.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2310.13007.pdf" style="text-decoration:none">work</a> with <a href="https://www.linkedin.com/in/luca-deck-93757a1a4/" style="text-decoration:none">Luca</a>, <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a>, and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> was accepted to the <a href="https://xai-in-action.github.io/" style="text-decoration:none">XAIA Workshop @ NeurIPS '23</a> and will be presented in New Orleans in December.
