@@ -12,9 +12,9 @@ I received my PhD from the Karlsruhe Institute of Technology (KIT) in Germany, w
 
 ## News
 
-**Jan '24.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">work</a> with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a> and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> got accepted to <a href="https://chi2024.acm.org/" style="text-decoration:none">ACM CHI '24</a>.
+**Jan '24.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">work</a> *On explanations, fairness, and appropriate reliance in human-AI decision-making* with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a> and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> got accepted to <a href="https://chi2024.acm.org/" style="text-decoration:none">ACM CHI '24</a>.
 
-**Oct '23.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2310.13007.pdf" style="text-decoration:none">work</a> with <a href="https://www.linkedin.com/in/luca-deck-93757a1a4/" style="text-decoration:none">Luca</a>, <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a>, and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> was accepted to the <a href="https://xai-in-action.github.io/" style="text-decoration:none">XAIA Workshop @ NeurIPS '23</a> and will be presented in New Orleans in December.
+**Oct '23.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2310.13007.pdf" style="text-decoration:none">work</a> *A critical survey on fairness benefits of XAI* with <a href="https://www.linkedin.com/in/luca-deck-93757a1a4/" style="text-decoration:none">Luca</a>, <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a>, and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> was accepted to the <a href="https://xai-in-action.github.io/" style="text-decoration:none">XAIA Workshop @ NeurIPS '23</a> and will be presented in New Orleans in December.
 
 **Oct '23.** &nbsp; I started a postdoc position at UT Austin, working closely with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria De-Arteaga</a> on clinical human-AI decision-making.
 
@@ -22,7 +22,7 @@ I received my PhD from the Karlsruhe Institute of Technology (KIT) in Germany, w
 
 **Jul '23.** &nbsp; Our <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">paper</a> got accepted as a non-archival poster at <a href="https://eaamo.org/#home" style="text-decoration:none">ACM EAAMO '23</a>.
 
-**Jun '23.** &nbsp; Our HHAI '23 <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">paper</a> won the best paper award 🎉
+**Jun '23.** &nbsp; Our HHAI '23 <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">paper</a> *On the interdependence of reliance behavior and accuracy in AI-assisted decision-making* won the best paper award 🎉
 
 **May '23.** &nbsp; I started a research internship with Microsoft in Redmond, WA, working closely with <a href="https://www.microsoft.com/en-us/research/people/basarraf/" style="text-decoration:none">Bahar Sarrafzadeh</a> and <a href="https://www.microsoft.com/en-us/research/people/jinsuh/" style="text-decoration:none">Jina Suh</a> on LLM-supported decision-making.
 
