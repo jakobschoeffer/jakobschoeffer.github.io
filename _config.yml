@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" #, "air", "aqua", "dark", "default", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Academic Page"
+title                    : "Jakob's Academic Page"
 title_separator          : "|"
 subtitle                 : # Postdoc @ UT Austin # site tagline that appears below site title in masthead
 name                     : "Jakob Schoeffer"
