@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-Hi there! I am currently a postdoctoral research fellow at UT Austin, working closely with Maria De-Arteaga on clinical human-AI decision-making. My research generally addresses problems that arise when humans and AI systems interact, with a particular focus on transparency and fairness in high-stakes AI-informed decision-making.
+Hi there! I am currently a postdoctoral research fellow at UT Austin, working closely with Maria De-Arteaga on clinical human-AI decision-making. My research generally addresses problems that arise when humans and AI systems interact, with a particular focus on fairness and transparency in high-stakes AI-informed decision-making.
 
 My main objective is to contribute to the responsible design and deployment of AI systems, fostering a more equitable and just society. To this end, I employ a multidisciplinary approach that integrates novel AI techniques with insights derived from behavioral research, utilizing a mix of quantitative and qualitative methods.
 
