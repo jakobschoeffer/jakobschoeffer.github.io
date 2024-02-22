@@ -11,11 +11,11 @@ An overview of my academic work to date.
 
 Legend: \* Equal contribution; 🏆 Best paper award
 
-\[1\] Deck, L., **JS**, De-Arteaga, M., Kuehl, N. (2023). [*A critical survey on fairness benefits of XAI*](https://arxiv.org/pdf/2310.13007.pdf). NeurIPS Workshop on XAI in Action (XAIA)
+\[1\] **JS**, De-Arteaga, M.,\* Kuehl, N.\* (2024).[*Explanations, fairness, and appropriate reliance in human-AI decision-making*](https://arxiv.org/pdf/2209.11812.pdf). ACM CHI Conference on Human Factors in Computing Systems (CHI '24)
 
-\[2\] **JS**,\* Jakubik, J.,\* Voessing, M., Kuehl, N., Satzger, G. (2023). [*On the interdependence of reliance behavior and accuracy in AI-assisted decision-making*](https://arxiv.org/pdf/2304.08804.pdf). Hybrid Human Artificial Intelligence 2023 (HHAI) 🏆
+\[2\] Deck, L., **JS**, De-Arteaga, M., Kuehl, N. (2023). [*A critical survey on fairness benefits of XAI*](https://arxiv.org/pdf/2310.13007.pdf). NeurIPS Workshop on XAI in Action (XAIA)
 
-\[3\] **JS**, De-Arteaga, M., Kuehl, N. (2023). [*On explanations, fairness, and appropriate reliance in human-AI decision-making*](https://arxiv.org/pdf/2209.11812.pdf). ACM CHI 2023 Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT)
+\[3\] **JS**,\* Jakubik, J.,\* Voessing, M., Kuehl, N., Satzger, G. (2023). [*On the interdependence of reliance behavior and accuracy in AI-assisted decision-making*](https://arxiv.org/pdf/2304.08804.pdf). Hybrid Human Artificial Intelligence 2023 (HHAI) 🏆
 
 \[4\] **JS**,\* Ritchie, A.,\* Naggita, K.,\* Monachou, F.,\* Finocchiaro, J.,\* Juarez, M. (2023). [*Online platforms and the fair exposure problem under homophily*](https://arxiv.org/pdf/2202.09727.pdf). 37<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI-23)
 
