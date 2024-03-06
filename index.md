@@ -12,7 +12,7 @@ I received my PhD from the Karlsruhe Institute of Technology (KIT) in Germany, w
 
 ## News
 
-**Jan '24.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">work</a> *"Explanations, fairness, and appropriate reliance in human-AI decision-making"* with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a> and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> got conditionally accepted to <a href="https://chi2024.acm.org/" style="text-decoration:none">ACM CHI '24</a>.
+**Jan '24.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">work</a> *"Explanations, fairness, and appropriate reliance in human-AI decision-making"* with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a> and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> got accepted to <a href="https://chi2024.acm.org/" style="text-decoration:none">ACM CHI '24</a>.
 
 **Oct '23.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2310.13007.pdf" style="text-decoration:none">work</a> *"A critical survey on fairness benefits of XAI"* with <a href="https://www.linkedin.com/in/luca-deck-93757a1a4/" style="text-decoration:none">Luca</a>, <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a>, and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> was accepted to the <a href="https://xai-in-action.github.io/" style="text-decoration:none">XAIA Workshop @ NeurIPS '23</a> and will be presented in New Orleans in December.
 
