@@ -19,9 +19,9 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 \[2023.3\] **JS**,\* Jakubik, J.,\* Voessing, M., Kuehl, N., Satzger, G. (2023). <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">*On the interdependence of reliance behavior and accuracy in AI-assisted decision-making*</a>. Hybrid Human Artificial Intelligence 2023 (HHAI) 🏆
 
-\[2023.2\] **JS**,\* Ritchie, A.,\* Naggita, K.,\* Monachou, F.,\* Finocchiaro, J.,\* Juarez, M. (2023). [*Online platforms and the fair exposure problem under homophily*](https://arxiv.org/pdf/2202.09727.pdf). 37<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI-23)
+\[2023.2\] **JS**,\* Ritchie, A.,\* Naggita, K.,\* Monachou, F.,\* Finocchiaro, J.,\* Juarez, M. (2023). <a href="https://arxiv.org/pdf/2202.09727.pdf" style="text-decoration:none">*Online platforms and the fair exposure problem under homophily*</a>. 37<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI-23)
 
-\[2023.1\] Baier, L., Schloer, T., **JS**, Kuehl, N. (2023). [*Detecting concept drift with neural network model uncertainty*](https://arxiv.org/pdf/2107.01873.pdf). 56<sup>th</sup> Hawaii International Conference on System Sciences 2023 (HICSS-56)
+\[2023.1\] Baier, L., Schloer, T., **JS**, Kuehl, N. (2023). <a href="https://arxiv.org/pdf/2107.01873.pdf" style="text-decoration:none">*Detecting concept drift with neural network model uncertainty*</a>. 56<sup>th</sup> Hawaii International Conference on System Sciences 2023 (HICSS-56)
 
 \[2022.6\] Jakubik, J., **JS**, Hoge, V., Voessing, M., Kuehl, N. (2022). [*An empirical evaluation of predicted outcomes as explanations in human-AI decision-making*](https://arxiv.org/pdf/2208.04181.pdf). ECML PKDD International Workshop on Explainable Knowledge Discovery in Data Mining (XKDD)
 
