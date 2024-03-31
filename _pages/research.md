@@ -29,19 +29,19 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 \[2022.4\] **JS**, De-Arteaga, M., Kuehl, N. (2022). <a href="https://arxiv.org/pdf/2204.13156.pdf" style="text-decoration:none">*On the relationship between explanations, fairness perceptions, and decisions*</a>. ACM CHI 2022 Workshop on Human-Centered Explainable AI (HCXAI)
 
-\[2022.3\] **JS** (2022). [*A human-centric perspective on fairness and transparency in algorithmic decision-making*](https://arxiv.org/pdf/2205.00033.pdf). Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)
+\[2022.3\] **JS** (2022). <a href="https://arxiv.org/pdf/2205.00033.pdf" style="text-decoration:none">*A human-centric perspective on fairness and transparency in algorithmic decision-making*</a>. Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)
 
-\[2022.2\] **JS**, Machowski, Y., Kuehl, N. (2022). [*Perceptions of fairness and trustworthiness based on explanations in human vs. automated decision-making*](https://arxiv.org/pdf/2109.05792.pdf). 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
+\[2022.2\] **JS**, Machowski, Y., Kuehl, N. (2022). <a href="https://arxiv.org/pdf/2109.05792.pdf" style="text-decoration:none">*Perceptions of fairness and trustworthiness based on explanations in human vs. automated decision-making*</a>. 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
 
-\[2022.1\] Hemmer, P., Kuehl, N., **JS** (2022). [*Utilizing active machine learning for quality assurance: A case study of virtual car renderings in the automotive industry*](https://arxiv.org/pdf/2110.09023.pdf). 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
+\[2022.1\] Hemmer, P., Kuehl, N., **JS** (2022). <a href="https://arxiv.org/pdf/2110.09023.pdf" style="text-decoration:none">*Utilizing active machine learning for quality assurance: A case study of virtual car renderings in the automotive industry*</a>. 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
 
-\[2021.3\] **JS**, Kuehl, N. (2021). [*Appropriate fairness perceptions? On the effectiveness of explanations in enabling people to assess the fairness of automated decision systems*](https://arxiv.org/pdf/2108.06500.pdf). Companion Publication of the 24<sup>th</sup> ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’21 Companion)
+\[2021.3\] **JS**, Kuehl, N. (2021). <a href="https://arxiv.org/pdf/2108.06500.pdf" style="text-decoration:none">*Appropriate fairness perceptions? On the effectiveness of explanations in enabling people to assess the fairness of automated decision systems*</a>. Companion Publication of the 24<sup>th</sup> ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’21 Companion)
 
-\[2021.2\] **JS**, Kuehl, N., Valera, I. (2021). [*A ranking approach to fair classification*](https://arxiv.org/pdf/2102.04565.pdf). ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS '21)
+\[2021.2\] **JS**, Kuehl, N., Valera, I. (2021). <a href="https://arxiv.org/pdf/2102.04565.pdf" style="text-decoration:none">*A ranking approach to fair classification*</a>. ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS '21)
 
-\[2021.1\] **JS**, Machowski, Y., Kuehl, N. (2021). [*A study on fairness and trust perceptions in automated decision making*](https://arxiv.org/pdf/2103.04757.pdf). Transparency and Explanations in Smart Systems (TExSS) Workshop at the 26<sup>th</sup> Annual Conference on Intelligent User Interfaces (ACM IUI '21)
+\[2021.1\] **JS**, Machowski, Y., Kuehl, N. (2021). <a href="https://arxiv.org/pdf/2103.04757.pdf" style="text-decoration:none">*A study on fairness and trust perceptions in automated decision making*</a>. Transparency and Explanations in Smart Systems (TExSS) Workshop at the 26<sup>th</sup> Annual Conference on Intelligent User Interfaces (ACM IUI '21)
 
-\[2020.1\] Hemmer, P., Kuehl, N., **JS** (2020). [*DEAL: Deep evidential active learning for image classification*](https://arxiv.org/pdf/2007.11344.pdf). 19<sup>th</sup> IEEE International Conference on Machine Learning and Applications (ICMLA '20)
+\[2020.1\] Hemmer, P., Kuehl, N., **JS** (2020). <a href="https://arxiv.org/pdf/2007.11344.pdf" style="text-decoration:none">*DEAL: Deep evidential active learning for image classification*</a>. 19<sup>th</sup> IEEE International Conference on Machine Learning and Applications (ICMLA '20)
 
 ## Talks, Presentations, and Doctoral Consortia
 
