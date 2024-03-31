@@ -39,7 +39,7 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 \[2021.2\] **JS**, Kuehl, N., Valera, I. (2021). <a href="https://arxiv.org/pdf/2102.04565.pdf" style="text-decoration:none">*A ranking approach to fair classification*</a>. ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS '21)
 
-\[2021.1\] **JS**, Machowski, Y., Kuehl, N. (2021). <a href="https://arxiv.org/pdf/2103.04757.pdf" style="text-decoration:none">*A study on fairness and trust perceptions in automated decision making*</a>. Transparency and Explanations in Smart Systems (TExSS) Workshop at the 26<sup>th</sup> Annual Conference on Intelligent User Interfaces (ACM IUI '21)
+\[2021.1\] **JS**, Machowski, Y., Kuehl, N. (2021). <a href="https://arxiv.org/pdf/2103.04757.pdf" style="text-decoration:none">*A study on fairness and trust perceptions in automated decision making*</a>. ACM IUI '21 Workshop on Transparency and Explanations in Smart Systems (TExSS)
 
 \[2020.1\] Hemmer, P., Kuehl, N., **JS** (2020). <a href="https://arxiv.org/pdf/2007.11344.pdf" style="text-decoration:none">*DEAL: Deep evidential active learning for image classification*</a>. 19<sup>th</sup> IEEE International Conference on Machine Learning and Applications (ICMLA '20)
 
