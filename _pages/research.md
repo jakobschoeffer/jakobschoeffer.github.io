@@ -11,7 +11,7 @@ An overview of my academic work to date.
 
 Legend: \* Equal contribution; 🏆 Best paper award
 
-\[3\] Deck, L., **JS**, De-Arteaga, M., Kuehl, N. (2024). [*A critical survey on fairness benefits of XAI*](https://arxiv.org/pdf/2310.13007.pdf). ACM Conference on Fairness, Accountability, and Transparency (FAccT '24)
+\[3\] Deck, L., **JS**, De-Arteaga, M., Kuehl, N. (2024). [*A critical survey on fairness benefits of XAI*](https://arxiv.org/pdf/2310.13007.pdf). ACM Conference on Fairness, Accountability, and Transparency (FAccT '24)  
 <span style="color:grey; font-size:0.8em">Also presented at NeurIPS '23 Workshop on XAI in Action (XAIA)</span>
 
 \[2\] **JS**, De-Arteaga, M.,\* Kuehl, N.\* (2024). [*Explanations, fairness, and appropriate reliance in human-AI decision-making*](https://arxiv.org/pdf/2209.11812.pdf). ACM CHI Conference on Human Factors in Computing Systems (CHI '24)
