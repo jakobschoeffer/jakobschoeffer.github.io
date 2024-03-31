@@ -23,11 +23,11 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 \[2023.1\] Baier, L., Schloer, T., **JS**, Kuehl, N. (2023). <a href="https://arxiv.org/pdf/2107.01873.pdf" style="text-decoration:none">*Detecting concept drift with neural network model uncertainty*</a>. 56<sup>th</sup> Hawaii International Conference on System Sciences 2023 (HICSS-56)
 
-\[2022.6\] Jakubik, J., **JS**, Hoge, V., Voessing, M., Kuehl, N. (2022). [*An empirical evaluation of predicted outcomes as explanations in human-AI decision-making*](https://arxiv.org/pdf/2208.04181.pdf). ECML PKDD International Workshop on Explainable Knowledge Discovery in Data Mining (XKDD)
+\[2022.6\] Jakubik, J., **JS**, Hoge, V., Voessing, M., Kuehl, N. (2022). <a href="https://arxiv.org/pdf/2208.04181.pdf" style="text-decoration:none">*An empirical evaluation of predicted outcomes as explanations in human-AI decision-making*</a>. ECML PKDD International Workshop on Explainable Knowledge Discovery in Data Mining (XKDD)
 
-\[2022.5\] **JS**, Kuehl, N., Machowski, Y. (2022). [*"There is not enough information": On the effects of transparency on perceptions of informational fairness and trustworthiness in automated decision making*](https://arxiv.org/pdf/2205.05758.pdf). ACM Conference on Fairness, Accountability, and Transparency (FAccT '22)
+\[2022.5\] **JS**, Kuehl, N., Machowski, Y. (2022). <a href="https://arxiv.org/pdf/2205.05758.pdf" style="text-decoration:none">*"There is not enough information": On the effects of transparency on perceptions of informational fairness and trustworthiness in automated decision making*</a>. ACM Conference on Fairness, Accountability, and Transparency (FAccT '22)
 
-\[2022.4\] **JS**, De-Arteaga, M., Kuehl, N. (2022). [*On the relationship between explanations, fairness perceptions, and decisions*](https://arxiv.org/pdf/2204.13156.pdf). ACM CHI 2022 Workshop on Human-Centered Explainable AI (HCXAI)
+\[2022.4\] **JS**, De-Arteaga, M., Kuehl, N. (2022). <a href="https://arxiv.org/pdf/2204.13156.pdf" style="text-decoration:none">*On the relationship between explanations, fairness perceptions, and decisions*</a>. ACM CHI 2022 Workshop on Human-Centered Explainable AI (HCXAI)
 
 \[2022.3\] **JS** (2022). [*A human-centric perspective on fairness and transparency in algorithmic decision-making*](https://arxiv.org/pdf/2205.00033.pdf). Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)
 
