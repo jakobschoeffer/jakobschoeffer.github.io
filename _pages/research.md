@@ -43,17 +43,19 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 ## Talks, Presentations, and Doctoral Consortia
 
+**Mar '24.** &nbsp; Seminar @ *McCombs School of Business at UT Austin* 📍Austin, TX 🇺🇸
+
 **Oct '23.** &nbsp; Poster @ *ACM EAAMO '23* 📍Boston, MA 🇺🇸
 
-**Aug '23.** &nbsp; Invited Talk @ *Microsoft Research* 📍Redmond, WA 🇺🇸
+**Aug '23.** &nbsp; Seminar @ *Microsoft Research* 📍Redmond, WA 🇺🇸
 
 **Apr '23.** &nbsp; Paper @ *Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT) at ACM CHI '23* 📍Hamburg 🇩🇪
 
-**Apr '23.** &nbsp; Invited Talk @ *MILA & Vector Institute* 📍virtual
+**Apr '23.** &nbsp; Invited @ *MILA & Vector Institute* 📍virtual
 
 **Dec '22.** &nbsp; Panel @ *Human-Machine Collaboration in a Changing World (HMC22) Workshop* 📍Paris 🇫🇷
 
-**Nov '22.** &nbsp; Invited Talk @ *Vienna University of Economics and Business (WU Wien)* 📍Vienna 🇦🇹
+**Nov '22.** &nbsp; Invited @ *Vienna University of Economics and Business (WU Wien)* 📍Vienna 🇦🇹
 
 **Oct '22.** &nbsp; Poster @ *Karlsruhe Service Summit '22* 📍Karlsruhe 🇩🇪
 
@@ -63,15 +65,15 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 **May '22.** &nbsp; Doctoral Consortium @ *ACM CHI '22* 📍New Orleans, LA 🇺🇸
 
-**Apr '22.** &nbsp; Invited Talk @ *McCombs School of Business at UT Austin* 📍Austin, TX 🇺🇸
+**Apr '22.** &nbsp; Seminar @ *McCombs School of Business at UT Austin* 📍Austin, TX 🇺🇸
 
 **Jan '22.** &nbsp; Paper @ *HICSS-55* 📍virtual
 
-**Nov '21.** &nbsp; Invited Talk @ *KIT Speaker Series* 📍Karlsruhe 🇩🇪
+**Nov '21.** &nbsp; Invited @ *KIT Speaker Series* 📍Karlsruhe 🇩🇪
 
 **Oct '21.** &nbsp; Poster @ *ACM CSCW '21* 📍virtual
 
-**Sep '21.** &nbsp; Invited Talk @ *Medienakademie Köln* 📍Cologne 🇩🇪
+**Sep '21.** &nbsp; Invited @ *Medienakademie Köln* 📍Cologne 🇩🇪
 
 **Jun '21.** &nbsp; Paper @ *ACM COMPASS '21* 📍virtual
 
@@ -79,7 +81,7 @@ Legend: \* Equal contribution; 🏆 Best paper award
 
 **Mar '21.** &nbsp; Doctoral Consortium @ *ACM FAccT '21* 📍virtual
 
-**Feb '21.** &nbsp; Invited Talk @ *Mittelstand 4.0-Kompetenzzentrum Saarbrücken* 📍virtual
+**Feb '21.** &nbsp; Invited @ *Mittelstand 4.0-Kompetenzzentrum Saarbrücken* 📍virtual
 
 
 
