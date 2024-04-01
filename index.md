@@ -4,11 +4,11 @@ layout: single
 author_profile: true
 ---
 
-Hi there! I am currently a postdoctoral research fellow at UT Austin, working closely with Maria De-Arteaga on clinical human-AI decision-making. My research generally addresses problems that arise when humans and AI systems interact, with a particular focus on fairness and transparency in high-stakes AI-informed decision-making.
+Hi there! I am currently a postdoctoral research fellow at UT Austin, working closely with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria De-Arteaga</a> on clinical human-AI decision-making. My research generally addresses problems that arise when humans and AI systems interact, with a particular focus on fairness and transparency in high-stakes AI-informed decision-making.
 
 My main objective is to contribute to the responsible design and deployment of AI systems, fostering a more equitable and just society. To this end, I employ a multidisciplinary approach that integrates novel AI techniques with insights derived from behavioral research, utilizing a mix of quantitative and qualitative methods.
 
-I received my PhD from the Karlsruhe Institute of Technology (KIT) in Germany, where I wrote a thesis "On the Interplay of Transparency and Fairness in AI-Informed Decision-Making." I also hold a master's degree in Operations Research from Georgia Tech. As a doctoral student, I was fortunate to do a research internship with Microsoft in Redmond, WA. Before embarking on my PhD journey, I worked for two years as a data scientist at IBM in New York.
+I received my PhD from the Karlsruhe Institute of Technology (KIT) in Germany, where I wrote a <a href="https://doi.org/10.5445/IR/1000164741" style="text-decoration:none">thesis</a> "On the Interplay of Transparency and Fairness in AI-Informed Decision-Making." I also hold a master's degree in Operations Research from Georgia Tech. As a doctoral student, I was fortunate to do a research internship with Microsoft in Redmond, WA. Before embarking on my PhD journey, I worked for two years as a data scientist at IBM in New York.
 
 ## News
 
