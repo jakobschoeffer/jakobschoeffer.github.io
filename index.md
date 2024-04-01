@@ -32,10 +32,10 @@ I received my PhD from the Karlsruhe Institute of Technology (KIT) in Germany, w
 
 **Mar '23.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">work</a> with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a> and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> will be presented at the <a href="https://chi-trait.github.io/#/" style="text-decoration:none">TRAIT Workshop @ CHI '23</a>, as well as at <a href="https://scecr.com/" style="text-decoration:none">SCECR '23</a> and <a href="https://2023-aisola.isola-conference.org/" style="text-decoration:none">AISoLA '23</a>.
 
-<> **Dec '22.** &nbsp; I presented some of my current research at the <a href="https://algorithmicfutures.org/hmc22/" style="text-decoration:none">HMC22 Workshop</a> in Paris.
+<!--- **Dec '22.** &nbsp; I presented some of my current research at the <a href="https://algorithmicfutures.org/hmc22/" style="text-decoration:none">HMC22 Workshop</a> in Paris.
 
-<> **Nov '22.** &nbsp; <a href="https://aritchie9590.github.io/" style="text-decoration:none">Alex</a>, Keziah, <a href="https://faidramonachou.github.io/" style="text-decoration:none">Faidra</a>, <a href="https://www.jessiefin.com/" style="text-decoration:none">Jessie</a>, <a href="https://mjuarezm.github.io/" style="text-decoration:none">Marc</a>, and I had our <a href="https://arxiv.org/pdf/2202.09727.pdf" style="text-decoration:none">paper</a> *"Online platforms and the fair exposure problem under homophily"* accepted to <a href="https://aaai.org/Conferences/AAAI-23/" style="text-decoration:none">AAAI '23</a>.
+**Nov '22.** &nbsp; <a href="https://aritchie9590.github.io/" style="text-decoration:none">Alex</a>, Keziah, <a href="https://faidramonachou.github.io/" style="text-decoration:none">Faidra</a>, <a href="https://www.jessiefin.com/" style="text-decoration:none">Jessie</a>, <a href="https://mjuarezm.github.io/" style="text-decoration:none">Marc</a>, and I had our <a href="https://arxiv.org/pdf/2202.09727.pdf" style="text-decoration:none">paper</a> *"Online platforms and the fair exposure problem under homophily"* accepted to <a href="https://aaai.org/Conferences/AAAI-23/" style="text-decoration:none">AAAI '23</a>.
 
-<> **Nov '22.** &nbsp; I gave an invited talk at <a href="https://www.wu.ac.at/" style="text-decoration:none">WU Wien</a>, hosted by <a href="https://www.linkedin.com/in/drchristianhaas/" style="text-decoration:none">Christian Haas</a>.
+**Nov '22.** &nbsp; I gave an invited talk at <a href="https://www.wu.ac.at/" style="text-decoration:none">WU Wien</a>, hosted by <a href="https://www.linkedin.com/in/drchristianhaas/" style="text-decoration:none">Christian Haas</a>.
 
-<> **Nov '22.** &nbsp; Started posting news here 😊
+**Nov '22.** &nbsp; Started posting news here 😊 --->
