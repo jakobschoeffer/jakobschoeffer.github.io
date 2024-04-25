@@ -12,6 +12,8 @@ I received my PhD from the Karlsruhe Institute of Technology (KIT) in Germany, w
 
 ## News
 
+**Apr '24.** &nbsp; Our CHI '24 <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">paper</a> *"Explanations, fairness, and appropriate reliance in human-AI decision-making"* won a best paper honorable mention award (top 5% of submissions) 🎉
+
 **Mar '24.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2310.13007.pdf" style="text-decoration:none">work</a> *"A critical survey on fairness benefits of XAI"* with <a href="https://lucad98.github.io" style="text-decoration:none">L. Deck</a>, <a href="https://mariadearteaga.com/" style="text-decoration:none">M. De-Arteaga</a>, and <a href="https://nkukit.github.io/" style="text-decoration:none">N. Kuehl</a> got accepted to <a href="https://facctconference.org" style="text-decoration:none">ACM FAccT '24</a>.
 
 **Jan '24.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">work</a> *"Explanations, fairness, and appropriate reliance in human-AI decision-making"* with <a href="https://mariadearteaga.com/" style="text-decoration:none">M. De-Arteaga</a> and <a href="https://nkukit.github.io/" style="text-decoration:none">N. Kuehl</a> got accepted to <a href="https://chi2024.acm.org/" style="text-decoration:none">ACM CHI '24</a>.
