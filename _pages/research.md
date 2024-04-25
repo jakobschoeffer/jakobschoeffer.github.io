@@ -9,7 +9,7 @@ An overview of my academic work to date.
 
 ## Peer-Reviewed Publications
 
-<span style="font-size:0.8em">Legend: \* Equal contribution; 🏆 Best paper award</span>
+<span style="font-size:0.8em">Legend: \* Equal contribution; 🏆 Best paper; 🏅 Best paper honorable mention</span>
 
 \[2024.2\] Deck, L., **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. <a href="https://arxiv.org/pdf/2310.13007.pdf" style="text-decoration:none">*A critical survey on fairness benefits of XAI*</a>. ACM Conference on Fairness, Accountability, and Transparency (FAccT '24)  
 <span style="color:grey; font-size:0.8em">Also presented at NeurIPS '23 XAIA Workshop</span>
