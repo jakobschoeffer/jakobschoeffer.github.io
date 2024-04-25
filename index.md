@@ -24,13 +24,13 @@ I received my PhD from the Karlsruhe Institute of Technology (KIT) in Germany, w
 
 **Oct '23.** &nbsp; I defended my <a href="https://doi.org/10.5445/IR/1000164741" style="text-decoration:none">PhD thesis</a> at KIT with the highest distinction (summa cum laude) 🎉
 
-**Jul '23.** &nbsp; Our <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">paper</a> got accepted as a non-archival poster at <a href="https://eaamo.org/#home" style="text-decoration:none">ACM EAAMO '23</a>.
+<!--- **Jul '23.** &nbsp; Our <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">paper</a> got accepted as a non-archival poster at <a href="https://eaamo.org/#home" style="text-decoration:none">ACM EAAMO '23</a>.
 
 **Jun '23.** &nbsp; Our HHAI '23 <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">paper</a> *"On the interdependence of reliance behavior and accuracy in AI-assisted decision-making"* won the best paper award 🎉
 
 **May '23.** &nbsp; I started a research internship with Microsoft in Redmond, WA, working closely with <a href="https://www.microsoft.com/en-us/research/people/basarraf/" style="text-decoration:none">Bahar Sarrafzadeh</a> and <a href="https://www.microsoft.com/en-us/research/people/jinsuh/" style="text-decoration:none">Jina Suh</a> on LLM-supported decision-making.
 
-<!--- **Apr '23.** &nbsp; <a href="http://www.johannesjakubik.com/" style="text-decoration:none">Johannes</a>, <a href="https://www.michaelvoessing.com/" style="text-decoration:none">Michael</a>, <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a>, <a href="https://www.linkedin.com/in/gerhardsatzger/" style="text-decoration:none">Gerhard</a>, and I had a <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">paper</a> accepted to <a href="https://www.hhai-conference.org/" style="text-decoration:none">HHAI '23</a>.
+**Apr '23.** &nbsp; <a href="http://www.johannesjakubik.com/" style="text-decoration:none">Johannes</a>, <a href="https://www.michaelvoessing.com/" style="text-decoration:none">Michael</a>, <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a>, <a href="https://www.linkedin.com/in/gerhardsatzger/" style="text-decoration:none">Gerhard</a>, and I had a <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">paper</a> accepted to <a href="https://www.hhai-conference.org/" style="text-decoration:none">HHAI '23</a>.
 
 **Mar '23.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">work</a> with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a> and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> will be presented at the <a href="https://chi-trait.github.io/#/" style="text-decoration:none">TRAIT Workshop @ CHI '23</a>, as well as at <a href="https://scecr.com/" style="text-decoration:none">SCECR '23</a> and <a href="https://2023-aisola.isola-conference.org/" style="text-decoration:none">AISoLA '23</a>.
 
