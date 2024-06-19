@@ -11,6 +11,8 @@ An overview of my academic work to date.
 
 <span style="font-size:0.8em">Legend: \* Equal contribution; 🏆 Best paper; 🏅 Best paper honorable mention</span>
 
+\[2024.3\] Lawless, C., **Schoeffer, J.**, Le, L., Rowan, K., Sen, S., St Hill, C., Suh, J., Sarrafzadeh, B. <a href="https://arxiv.org/pdf/2312.06908" style="text-decoration:none">*"I want it that way": Enabling interactive decision support using large language models and constraint programming*</a>. ACM Transactions on Interactive Intelligent Systems (TiiS)  
+
 \[2024.2\] Deck, L., **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. <a href="https://arxiv.org/pdf/2310.13007.pdf" style="text-decoration:none">*A critical survey on fairness benefits of explainable AI*</a>. ACM Conference on Fairness, Accountability, and Transparency (FAccT '24)  
 <span style="color:grey; font-size:0.8em">Also presented at NeurIPS '23 XAIA Workshop</span>
 
