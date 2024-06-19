@@ -18,13 +18,13 @@ I received my PhD from the Karlsruhe Institute of Technology (KIT) in Germany, w
 
 **Jan '24.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">work</a> *"Explanations, fairness, and appropriate reliance in human-AI decision-making"* with <a href="https://mariadearteaga.com/" style="text-decoration:none">M. De-Arteaga</a> and <a href="https://nkukit.github.io/" style="text-decoration:none">N. Kuehl</a> got accepted to <a href="https://chi2024.acm.org/" style="text-decoration:none">ACM CHI '24</a>.
 
-**Oct '23.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2310.13007.pdf" style="text-decoration:none">work</a> *"A critical survey on fairness benefits of XAI"* with <a href="https://lucad98.github.io" style="text-decoration:none">L. Deck</a>, <a href="https://mariadearteaga.com/" style="text-decoration:none">M. De-Arteaga</a>, and <a href="https://nkukit.github.io/" style="text-decoration:none">N. Kuehl</a> was accepted to the <a href="https://xai-in-action.github.io/" style="text-decoration:none">XAIA Workshop @ NeurIPS '23</a>.
+<!--- **Oct '23.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2310.13007.pdf" style="text-decoration:none">work</a> *"A critical survey on fairness benefits of XAI"* with <a href="https://lucad98.github.io" style="text-decoration:none">L. Deck</a>, <a href="https://mariadearteaga.com/" style="text-decoration:none">M. De-Arteaga</a>, and <a href="https://nkukit.github.io/" style="text-decoration:none">N. Kuehl</a> was accepted to the <a href="https://xai-in-action.github.io/" style="text-decoration:none">XAIA Workshop @ NeurIPS '23</a>.
 
 **Oct '23.** &nbsp; I started a postdoc position at UT Austin, working closely with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria De-Arteaga</a> on clinical human-AI decision-making.
 
 **Oct '23.** &nbsp; I defended my <a href="https://doi.org/10.5445/IR/1000164741" style="text-decoration:none">PhD thesis</a> at KIT with the highest distinction (summa cum laude) 🎉
 
-<!--- **Jul '23.** &nbsp; Our <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">paper</a> got accepted as a non-archival poster at <a href="https://eaamo.org/#home" style="text-decoration:none">ACM EAAMO '23</a>.
+**Jul '23.** &nbsp; Our <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">paper</a> got accepted as a non-archival poster at <a href="https://eaamo.org/#home" style="text-decoration:none">ACM EAAMO '23</a>.
 
 **Jun '23.** &nbsp; Our HHAI '23 <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">paper</a> *"On the interdependence of reliance behavior and accuracy in AI-assisted decision-making"* won the best paper award 🎉
 
