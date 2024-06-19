@@ -47,6 +47,8 @@ An overview of my academic work to date.
 
 ## Talks, Presentations, and Doctoral Consortia
 
+**May '24.** &nbsp; Paper @ *ACM CHI '24* 📍Honolulu, HI 🇺🇸
+
 **Mar '24.** &nbsp; Seminar @ *McCombs School of Business at UT Austin* 📍Austin, TX 🇺🇸
 
 **Oct '23.** &nbsp; Poster @ *ACM EAAMO '23* 📍Boston, MA 🇺🇸
