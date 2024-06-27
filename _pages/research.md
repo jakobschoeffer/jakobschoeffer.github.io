@@ -17,7 +17,7 @@ An overview of my academic work to date.
 <span style="color:grey; font-size:0.8em">Also presented at NeurIPS '23 XAIA Workshop</span>
 
 \[2024.1\] **Schoeffer, J.**, De-Arteaga, M.,\* Kuehl, N.\* <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">*Explanations, fairness, and appropriate reliance in human-AI decision-making*</a>. ACM CHI Conference on Human Factors in Computing Systems (CHI '24) 🏅  
-<span style="color:grey; font-size:0.8em">Also presented at ACM CHI '23 TRAIT Workshop, SCECR '23, and AISoLA '23</span>
+<span style="color:grey; font-size:0.8em">Also presented at ACM EAAMO '23, ACM CHI '23 TRAIT Workshop, SCECR '23, and AISoLA '23</span>
 
 \[2023.3\] **Schoeffer, J.**,\* Jakubik, J.,\* Voessing, M., Kuehl, N., Satzger, G. <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">*On the interdependence of reliance behavior and accuracy in AI-assisted decision-making*</a>. Hybrid Human Artificial Intelligence 2023 (HHAI) 🏆
 
