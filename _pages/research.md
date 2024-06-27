@@ -21,7 +21,8 @@ An overview of my academic work to date.
 
 \[2023.3\] **Schoeffer, J.**,\* Jakubik, J.,\* Voessing, M., Kuehl, N., Satzger, G. <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">*On the interdependence of reliance behavior and accuracy in AI-assisted decision-making*</a>. Hybrid Human Artificial Intelligence 2023 (HHAI) 🏆
 
-\[2023.2\] **Schoeffer, J.**,\* Ritchie, A.,\* Naggita, K.,\* Monachou, F.,\* Finocchiaro, J.,\* Juarez, M. <a href="https://arxiv.org/pdf/2202.09727.pdf" style="text-decoration:none">*Online platforms and the fair exposure problem under homophily*</a>. 37<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI-23)
+\[2023.2\] **Schoeffer, J.**,\* Ritchie, A.,\* Naggita, K.,\* Monachou, F.,\* Finocchiaro, J.,\* Juarez, M. <a href="https://arxiv.org/pdf/2202.09727.pdf" style="text-decoration:none">*Online platforms and the fair exposure problem under homophily*</a>. 37<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI-23)   
+<span style="color:grey; font-size:0.8em">Also presented at ACM EAAMO '21</span>
 
 \[2023.1\] Baier, L., Schloer, T., **Schoeffer, J.**, Kuehl, N. <a href="https://arxiv.org/pdf/2107.01873.pdf" style="text-decoration:none">*Detecting concept drift with neural network model uncertainty*</a>. 56<sup>th</sup> Hawaii International Conference on System Sciences 2023 (HICSS-56)
 
