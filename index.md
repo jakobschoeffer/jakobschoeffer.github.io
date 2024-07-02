@@ -12,6 +12,8 @@ I received my PhD from the Karlsruhe Institute of Technology (KIT) in Germany, w
 
 ## News
 
+**Jul '24.** &nbsp; An extended version of our HHAI '23 <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">paper</a> got accepted at the <a href="https://www.jair.org/index.php/jair/index" style="text-decoration:none">JAIR</a> special issue on *Hybrid Human-Artificial Intelligence*.
+
 **Jun '24.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2312.06908" style="text-decoration:none">work</a> *"I want it that way": Enabling interactive decision support using large language models and constraint programming* with <a href="https://conlaw.github.io/" style="text-decoration:none">C. Lawless</a>, <a href="https://www.linkedin.com/in/lindyle/" style="text-decoration:none">L. Le</a>, <a href="https://www.microsoft.com/en-us/research/people/kaelr/" style="text-decoration:none">K. Rowan</a>, <a href="https://www.shilad.com/" style="text-decoration:none">S. Sen</a>, <a href="https://www.linkedin.com/in/cristina-daescu-6a5a5460/" style="text-decoration:none">C. St Hill</a>, <a href="https://www.jinasuh.com/" style="text-decoration:none">J. Suh</a>, and <a href="https://www.microsoft.com/en-us/research/people/basarraf/" style="text-decoration:none">B. Sarrafzadeh</a> got accepted at <a href="https://dl.acm.org/journal/tiis" style="text-decoration:none">ACM TiiS</a>.
 
 **May '24.** &nbsp; I received and accepted an offer as tenure-track assistant professor of responsible and explainable AI at the <a href="https://www.rug.nl/" style="text-decoration:none">University of Groningen</a> in the Netherlands, starting in spring '25 🎉
