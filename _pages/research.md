@@ -46,7 +46,7 @@ An overview of my academic work to date.
 
 \[2021.1\] **Schoeffer, J.**, Machowski, Y., Kuehl, N. <a href="https://arxiv.org/pdf/2103.04757.pdf" style="text-decoration:none">*A study on fairness and trust perceptions in automated decision making*</a>. ACM IUI '21 Workshop on Transparency and Explanations in Smart Systems (TExSS)
 
-\[2020.1\] Hemmer, P., Kuehl, N., **Schoeffer, J.** <a href="https://arxiv.org/pdf/2007.11344.pdf" style="text-decoration:none">*DEAL: Deep evidential active learning for image classification*</a>. 19<sup>th</sup> IEEE International Conference on Machine Learning and Applications (ICMLA '20)
+\[2020.1\] Hemmer, P., Kuehl, N., **Schoeffer, J.** <a href="https://doi.org/10.48550/arXiv.2007.11344" style="text-decoration:none">*DEAL: Deep evidential active learning for image classification*</a>. 19<sup>th</sup> IEEE International Conference on Machine Learning and Applications (ICMLA '20)
 
 ## Talks, Presentations, and Doctoral Consortia
 
