@@ -48,7 +48,7 @@ An overview of my academic work to date.
 
 \[2020.1\] Hemmer, P., Kuehl, N., **Schoeffer, J.** <a href="https://doi.org/10.48550/arXiv.2007.11344" style="text-decoration:none">*DEAL: Deep evidential active learning for image classification*</a>. 19<sup>th</sup> IEEE International Conference on Machine Learning and Applications (ICMLA '20)
 
-## Peer-Reviewed In-Progress Papers
+## Peer-Reviewed Short and In-Progress Papers
 
 
 
