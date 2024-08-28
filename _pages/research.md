@@ -42,13 +42,13 @@ An overview of my academic work to date.
 
 \[S-2024.1\] Deck, L., Schomaecker, A., Speith, T., **Schoeffer, J.**, Kaestner, L., Kuehl, N. <a href="https://doi.org/10.48550/arXiv.2404.18736" style="text-decoration:none">*Mapping the potential of explainable AI for fairness along the AI lifecycle*</a>. European Workshop on Algorithmic Fairness (EWAF)
 
-\[S-2022.3\] Jakubik, J., **Schoeffer, J.**, Hoge, V., Voessing, M., Kuehl, N. <a href="https://arxiv.org/pdf/2208.04181.pdf" style="text-decoration:none">*An empirical evaluation of predicted outcomes as explanations in human-AI decision-making*</a>. ECML PKDD International Workshop on Explainable Knowledge Discovery in Data Mining (XKDD)
+\[S-2022.3\] Jakubik, J., **Schoeffer, J.**, Hoge, V., Voessing, M., Kuehl, N. <a href="https://doi.org/10.48550/arXiv.2208.04181" style="text-decoration:none">*An empirical evaluation of predicted outcomes as explanations in human-AI decision-making*</a>. ECML PKDD International Workshop on Explainable Knowledge Discovery in Data Mining (XKDD)
 
-\[S-2022.2\] **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. <a href="https://arxiv.org/pdf/2204.13156.pdf" style="text-decoration:none">*On the relationship between explanations, fairness perceptions, and decisions*</a>. ACM CHI 2022 Workshop on Human-Centered Explainable AI (HCXAI)
+\[S-2022.2\] **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. <a href="https://doi.org/10.48550/arXiv.2204.13156" style="text-decoration:none">*On the relationship between explanations, fairness perceptions, and decisions*</a>. ACM CHI 2022 Workshop on Human-Centered Explainable AI (HCXAI)
 
-\[S-2022.1\] **Schoeffer, J.** <a href="https://arxiv.org/pdf/2205.00033.pdf" style="text-decoration:none">*A human-centric perspective on fairness and transparency in algorithmic decision-making*</a>. Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)
+\[S-2022.1\] **Schoeffer, J.** <a href="https://doi.org/10.48550/arXiv.2205.00033" style="text-decoration:none">*A human-centric perspective on fairness and transparency in algorithmic decision-making*</a>. Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22)
 
-\[S-2021.2\] **Schoeffer, J.**, Kuehl, N. <a href="https://arxiv.org/pdf/2108.06500.pdf" style="text-decoration:none">*Appropriate fairness perceptions? On the effectiveness of explanations in enabling people to assess the fairness of automated decision systems*</a>. Companion Publication of the 24<sup>th</sup> ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’21 Companion)
+\[S-2021.2\] **Schoeffer, J.**, Kuehl, N. <a href="https://doi.org/10.48550/arXiv.2108.06500" style="text-decoration:none">*Appropriate fairness perceptions? On the effectiveness of explanations in enabling people to assess the fairness of automated decision systems*</a>. Companion Publication of the 24<sup>th</sup> ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’21 Companion)
 
 \[S-2021.1\] **Schoeffer, J.**, Machowski, Y., Kuehl, N. <a href="https://doi.org/10.48550/arXiv.2103.04757" style="text-decoration:none">*A study on fairness and trust perceptions in automated decision making*</a>. ACM IUI '21 Workshop on Transparency and Explanations in Smart Systems (TExSS)
 
