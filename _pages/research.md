@@ -11,28 +11,28 @@ An overview of my academic work to date.
 
 <span style="font-size:0.8em">Legend: \* Equal contribution; 🏆 Best paper; 🏅 Best paper honorable mention</span>
 
+\[F-2024.4\] **Schoeffer, J.**,\* Jakubik, J.,\* Voessing, M., Kuehl, N., Satzger, G. <a href="https://doi.org/10.48550/arXiv.2304.08804" style="text-decoration:none">*AI reliance and decision quality: Fundamentals, interdependence, and the effects of interventions*</a>. Journal of Artificial Intelligence Research (JAIR)
 
+\[F-2024.3\] Lawless, C., **Schoeffer, J.**, Le, L., Rowan, K., Sen, S., St Hill, C., Suh, J., Sarrafzadeh, B. <a href="https://doi.org/10.1145/3685053" style="text-decoration:none">*"I want it that way": Enabling interactive decision support using large language models and constraint programming*</a>. ACM Transactions on Interactive Intelligent Systems (TiiS)  
 
-\[F-2024.3\] Lawless, C., **Schoeffer, J.**, Le, L., Rowan, K., Sen, S., St Hill, C., Suh, J., Sarrafzadeh, B. <a href="https://arxiv.org/pdf/2312.06908" style="text-decoration:none">*"I want it that way": Enabling interactive decision support using large language models and constraint programming*</a>. ACM Transactions on Interactive Intelligent Systems (TiiS)  
-
-\[F-2024.2\] Deck, L., **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. <a href="https://arxiv.org/pdf/2310.13007.pdf" style="text-decoration:none">*A critical survey on fairness benefits of explainable AI*</a>. ACM Conference on Fairness, Accountability, and Transparency (FAccT '24)  
+\[F-2024.2\] Deck, L., **Schoeffer, J.**, De-Arteaga, M., Kuehl, N. <a href="https://doi.org/10.48550/arXiv.2310.13007" style="text-decoration:none">*A critical survey on fairness benefits of explainable AI*</a>. ACM Conference on Fairness, Accountability, and Transparency (FAccT '24)  
 <span style="color:grey; font-size:0.8em">Also presented at NeurIPS '23 XAIA Workshop and AISoLA '24</span>
 
-🏅 \[F-2024.1\] **Schoeffer, J.**, De-Arteaga, M.,\* Kuehl, N.\* <a href="https://arxiv.org/pdf/2209.11812.pdf" style="text-decoration:none">*Explanations, fairness, and appropriate reliance in human-AI decision-making*</a>. ACM CHI Conference on Human Factors in Computing Systems (CHI '24)  
+🏅 \[F-2024.1\] **Schoeffer, J.**, De-Arteaga, M.,\* Kuehl, N.\* <a href="https://doi.org/10.1145/3613904.3642621" style="text-decoration:none">*Explanations, fairness, and appropriate reliance in human-AI decision-making*</a>. ACM CHI Conference on Human Factors in Computing Systems (CHI '24)  
 <span style="color:grey; font-size:0.8em">Also presented at ACM EAAMO '23, ACM CHI '23 TRAIT Workshop, SCECR '23, and AISoLA '23</span>
 
-🏆 \[F-2023.3\] **Schoeffer, J.**,\* Jakubik, J.,\* Voessing, M., Kuehl, N., Satzger, G. <a href="https://arxiv.org/pdf/2304.08804.pdf" style="text-decoration:none">*On the interdependence of reliance behavior and accuracy in AI-assisted decision-making*</a>. Hybrid Human Artificial Intelligence 2023 (HHAI)  
+🏆 \[F-2023.3\] **Schoeffer, J.**,\* Jakubik, J.,\* Voessing, M., Kuehl, N., Satzger, G. <a href="https://doi.org/10.3233/FAIA230074" style="text-decoration:none">*On the interdependence of reliance behavior and accuracy in AI-assisted decision-making*</a>. Hybrid Human Artificial Intelligence 2023 (HHAI)  
 
-\[F-2023.2\] **Schoeffer, J.**,\* Ritchie, A.,\* Naggita, K.,\* Monachou, F.,\* Finocchiaro, J.,\* Juarez, M. <a href="https://arxiv.org/pdf/2202.09727.pdf" style="text-decoration:none">*Online platforms and the fair exposure problem under homophily*</a>. 37<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI-23)   
+\[F-2023.2\] **Schoeffer, J.**,\* Ritchie, A.,\* Naggita, K.,\* Monachou, F.,\* Finocchiaro, J.,\* Juarez, M. <a href="https://doi.org/10.1609/aaai.v37i10.26404" style="text-decoration:none">*Online platforms and the fair exposure problem under homophily*</a>. 37<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI-23)   
 <span style="color:grey; font-size:0.8em">Also presented at ACM EAAMO '21</span>
 
-\[F-2023.1\] Baier, L., Schloer, T., **Schoeffer, J.**, Kuehl, N. <a href="https://arxiv.org/pdf/2107.01873.pdf" style="text-decoration:none">*Detecting concept drift with neural network model uncertainty*</a>. 56<sup>th</sup> Hawaii International Conference on System Sciences 2023 (HICSS-56)
+\[F-2023.1\] Baier, L., Schloer, T., **Schoeffer, J.**, Kuehl, N. <a href="https://doi.org/10.48550/arXiv.2107.01873" style="text-decoration:none">*Detecting concept drift with neural network model uncertainty*</a>. 56<sup>th</sup> Hawaii International Conference on System Sciences 2023 (HICSS-56)
 
-\[F-2022.3\] **Schoeffer, J.**, Kuehl, N., Machowski, Y. <a href="https://arxiv.org/pdf/2205.05758.pdf" style="text-decoration:none">*"There is not enough information": On the effects of transparency on perceptions of informational fairness and trustworthiness in automated decision making*</a>. ACM Conference on Fairness, Accountability, and Transparency (FAccT '22)
+\[F-2022.3\] **Schoeffer, J.**, Kuehl, N., Machowski, Y. <a href="https://doi.org/10.48550/arXiv.2205.05758" style="text-decoration:none">*"There is not enough information": On the effects of transparency on perceptions of informational fairness and trustworthiness in automated decision making*</a>. ACM Conference on Fairness, Accountability, and Transparency (FAccT '22)
 
-\[F-2022.2\] **Schoeffer, J.**, Machowski, Y., Kuehl, N. <a href="https://arxiv.org/pdf/2109.05792.pdf" style="text-decoration:none">*Perceptions of fairness and trustworthiness based on explanations in human vs. automated decision-making*</a>. 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
+\[F-2022.2\] **Schoeffer, J.**, Machowski, Y., Kuehl, N. <a href="https://doi.org/10.48550/arXiv.2109.05792" style="text-decoration:none">*Perceptions of fairness and trustworthiness based on explanations in human vs. automated decision-making*</a>. 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
 
-\[F-2022.1\] Hemmer, P., Kuehl, N., **Schoeffer, J.** <a href="https://arxiv.org/pdf/2110.09023.pdf" style="text-decoration:none">*Utilizing active machine learning for quality assurance: A case study of virtual car renderings in the automotive industry*</a>. 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
+\[F-2022.1\] Hemmer, P., Kuehl, N., **Schoeffer, J.** <a href="https://doi.org/10.48550/arXiv.2110.09023" style="text-decoration:none">*Utilizing active machine learning for quality assurance: A case study of virtual car renderings in the automotive industry*</a>. 55<sup>th</sup> Hawaii International Conference on System Sciences 2022 (HICSS-55)
 
 \[F-2021.1\] **Schoeffer, J.**, Kuehl, N., Valera, I. <a href="https://doi.org/10.48550/arXiv.2102.04565" style="text-decoration:none">*A ranking approach to fair classification*</a>. ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS '21)
 
