@@ -42,7 +42,7 @@ An overview of my academic work to date.
 
 \[2021.3\] **Schoeffer, J.**, Kuehl, N. <a href="https://arxiv.org/pdf/2108.06500.pdf" style="text-decoration:none">*Appropriate fairness perceptions? On the effectiveness of explanations in enabling people to assess the fairness of automated decision systems*</a>. Companion Publication of the 24<sup>th</sup> ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’21 Companion)
 
-\[2021.2\] **Schoeffer, J.**, Kuehl, N., Valera, I. <a href="https://arxiv.org/pdf/2102.04565.pdf" style="text-decoration:none">*A ranking approach to fair classification*</a>. ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS '21)
+\[2021.2\] **Schoeffer, J.**, Kuehl, N., Valera, I. <a href="https://doi.org/10.48550/arXiv.2102.04565" style="text-decoration:none">*A ranking approach to fair classification*</a>. ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS '21)
 
 \[2021.1\] **Schoeffer, J.**, Machowski, Y., Kuehl, N. <a href="https://doi.org/10.48550/arXiv.2103.04757" style="text-decoration:none">*A study on fairness and trust perceptions in automated decision making*</a>. ACM IUI '21 Workshop on Transparency and Explanations in Smart Systems (TExSS)
 
