@@ -38,7 +38,7 @@ An overview of my academic work to date.
 
 \[2020.1\] Hemmer, P., Kuehl, N., **Schoeffer, J.** <a href="https://doi.org/10.48550/arXiv.2007.11344" style="text-decoration:none">*DEAL: Deep evidential active learning for image classification*</a>. 19<sup>th</sup> IEEE International Conference on Machine Learning and Applications (ICMLA '20)
 
-## Peer-Reviewed Short Papers
+## Peer-Reviewed <ins>Short</ins> Papers
 
 \[S-2024.1\] Deck, L., Schomaecker, A., Speith, T., **Schoeffer, J.**, Kaestner, L., Kuehl, N. <a href="https://doi.org/10.48550/arXiv.2404.18736" style="text-decoration:none">*Mapping the potential of explainable AI for fairness along the AI lifecycle*</a>. European Workshop on Algorithmic Fairness (EWAF)
 
