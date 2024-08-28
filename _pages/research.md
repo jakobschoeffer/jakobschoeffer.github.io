@@ -7,7 +7,7 @@ author_profile: true
 
 An overview of my academic work to date.
 
-## Peer-Reviewed Full Papers
+## Peer-Reviewed <ins>Full</ins> Papers
 
 <span style="font-size:0.8em">Legend: \* Equal contribution; 🏆 Best paper; 🏅 Best paper honorable mention</span>
 
