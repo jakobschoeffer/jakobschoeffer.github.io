@@ -11,7 +11,7 @@ An overview of my academic work to date.
 
 <span style="font-size:0.8em">Legend: \* Equal contribution; 🏆 Best paper; 🏅 Best paper honorable mention</span>
 
-\[F-2024.4\] **Schoeffer, J.**,\* Jakubik, J.,\* Voessing, M., Kuehl, N., Satzger, G. <a href="https://doi.org/10.48550/arXiv.2304.08804" style="text-decoration:none">*AI reliance and decision quality: Fundamentals, interdependence, and the effects of interventions*</a>. Journal of Artificial Intelligence Research (JAIR)
+\[F-2024.4\] **Schoeffer, J.**, Jakubik, J., Voessing, M., Kuehl, N., Satzger, G. <a href="https://doi.org/10.48550/arXiv.2304.08804" style="text-decoration:none">*AI reliance and decision quality: Fundamentals, interdependence, and the effects of interventions*</a>. Journal of Artificial Intelligence Research (JAIR)
 
 \[F-2024.3\] Lawless, C., **Schoeffer, J.**, Le, L., Rowan, K., Sen, S., St Hill, C., Suh, J., Sarrafzadeh, B. <a href="https://doi.org/10.1145/3685053" style="text-decoration:none">*"I want it that way": Enabling interactive decision support using large language models and constraint programming*</a>. ACM Transactions on Interactive Intelligent Systems (TiiS)  
 
