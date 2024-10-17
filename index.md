@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-I am a postdoctoral research fellow at UT Austin, working closely with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria De-Arteaga</a> on clinical human-AI decision-making. I will be joining the <a href="https://www.rug.nl/research/bernoulli/?lang=en" style="text-decoration:none">University of Groningen</a> as a tenure-track assistant professor in spring 2025. My research generally addresses problems that arise when humans and AI systems interact, with a particular focus on fairness and transparency in high-stakes AI-informed decision-making.
+I am a postdoctoral research fellow at UT Austin, working closely with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria De-Arteaga</a> on clinical human-AI decision-making. I will be joining the <a href="https://www.rug.nl/research/bernoulli/?lang=en" style="text-decoration:none">University of Groningen</a> as a tenure-track assistant professor in spring 2025. My research generally addresses problems that arise when humans and AI systems interact, with a particular focus on fairness and transparency in high-stakes decision-making.
 
 My main objective is to contribute to the responsible design and deployment of AI systems, fostering a more equitable and just society. To this end, I employ a multidisciplinary approach that integrates novel AI techniques with insights derived from behavioral research, utilizing a mix of quantitative and qualitative methods.
 
