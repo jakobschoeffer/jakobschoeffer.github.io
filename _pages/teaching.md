@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+An overview of my teaching activities to date.
+
 ## Invited Lectures
 
 *Human-AI Collaboration*, UT Austin, 2024
