@@ -9,7 +9,7 @@ An overview of my academic work to date.
 
 ## Peer-Reviewed <ins>F</ins>ull Papers
 
-<span style="font-size:0.8em">* Equal contribution; 🏆 Best paper; 🏅 Best paper honorable mention</span>
+<span style="font-size:0.8em">\* Equal contribution; 🏆 Best paper; 🏅 Best paper honorable mention</span>
 
 \[F-2024.4\] **Schoeffer, J.**, Jakubik, J., Voessing, M., Kuehl, N., Satzger, G. <a href="https://doi.org/10.48550/arXiv.2304.08804" style="text-decoration:none">*AI reliance and decision quality: Fundamentals, interdependence, and the effects of interventions*</a>. Journal of Artificial Intelligence Research (JAIR)  
 <span style="color:grey; font-size:0.8em">Extended version of [F-2023.3]</span>
