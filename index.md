@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-I am an incoming tenure-track assistant professor at the <a href="https://www.rug.nl/research/bernoulli/?lang=en" style="text-decoration:none">Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence</a>, University of Groningen (Netherlands). My research addresses problems that arise when humans and AI systems interact, with a focus on fairness and transparency in high-stakes decision-making.
+I am a tenure-track assistant professor at the <a href="https://www.rug.nl/research/bernoulli/?lang=en" style="text-decoration:none">Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence</a>, University of Groningen (Netherlands). My research addresses problems that arise when humans and AI systems interact, with a focus on fairness and transparency in high-stakes decision-making.
 
 My main objective is to contribute to the responsible design and deployment of AI systems, fostering a more equitable and just society. To this end, I employ a multidisciplinary approach that integrates novel AI techniques with insights derived from behavioral research, utilizing a mix of quantitative and qualitative methods.
 
@@ -12,7 +12,9 @@ Prior to my current appointment, I was a postdoctoral research fellow at the Uni
 
 ## News
 
-**Aug '24.** &nbsp; Our recent CHI '24 <a href="https://doi.org/10.1145/3613904.3642621" style="text-decoration:none">paper</a> was featured in a <a href="https://medium.com/texas-mccombs/when-ai-aids-decisions-when-should-humans-override-2805a8698dd5" style="text-decoration:none">blog</a> by UT Austin.
+**Jan '25.** &nbsp; I gave an invited <a href="https://www.uni-bayreuth.de/en/bayreuth-lectures" style="text-decoration:none">Bayreuth Lecture</a> on challenges and opportunities in human-AI collaboration.   
+
+**Aug '24.** &nbsp; Our recent CHI '24 <a href="https://doi.org/10.1145/3613904.3642621" style="text-decoration:none">paper</a> was featured in a <a href="https://medium.com/texas-mccombs/when-ai-aids-decisions-when-should-humans-override-2805a8698dd5" style="text-decoration:none">blog</a> by UT Austin.  
 
 **Jul '24.** &nbsp; An extended version of our HHAI '23 <a href="https://doi.org/10.48550/arXiv.2304.08804" style="text-decoration:none">paper</a> got accepted at the <a href="https://www.jair.org/index.php/jair/index" style="text-decoration:none">JAIR</a> special issue on *Hybrid Human-Artificial Intelligence*.
 
