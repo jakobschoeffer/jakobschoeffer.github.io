@@ -56,6 +56,8 @@ An overview of my academic work to date.
 
 ## Talks, Presentations, and Doctoral Consortia
 
+**Jan '25.** &nbsp; Invited @ *University of Bayreuth* 📍Bayreuth 🇩🇪
+
 **May '24.** &nbsp; Paper @ *ACM CHI '24* 📍Honolulu, HI 🇺🇸
 
 **Mar '24.** &nbsp; Seminar @ *McCombs School of Business at UT Austin* 📍Austin, TX 🇺🇸
