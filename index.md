@@ -12,6 +12,8 @@ Prior to my current appointment, I was a postdoctoral research fellow at the Uni
 
 ## News
 
+**Feb '25.** &nbsp; I started my new role as tenure-track assistant professor of reponsible and explainable AI at the <a href="https://www.rug.nl/research/bernoulli/" style="text-decoration:none">University of Groningen, Bernoulli Institute</a>.
+
 **Jan '25.** &nbsp; I gave an invited <a href="https://www.uni-bayreuth.de/en/bayreuth-lectures" style="text-decoration:none">Bayreuth Lecture</a> on challenges and opportunities in human-AI collaboration.   
 
 **Aug '24.** &nbsp; Our recent CHI '24 <a href="https://doi.org/10.1145/3613904.3642621" style="text-decoration:none">paper</a> was featured in a <a href="https://medium.com/texas-mccombs/when-ai-aids-decisions-when-should-humans-override-2805a8698dd5" style="text-decoration:none">blog</a> by UT Austin.  
