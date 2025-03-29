@@ -57,6 +57,8 @@ An overview of my academic work to date.
 
 ## Talks, Presentations, and Doctoral Consortia
 
+**Mar '25.** &nbsp; Poster @ *Workshop on Human-AI Interaction* 📍Freiburg im Breisgau 🇩🇪
+
 **Jan '25.** &nbsp; Invited @ *University of Bayreuth* 📍Bayreuth 🇩🇪
 
 **May '24.** &nbsp; Paper @ *ACM CHI '24* 📍Honolulu, HI 🇺🇸
