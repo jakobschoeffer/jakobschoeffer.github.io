@@ -57,6 +57,8 @@ An overview of my academic work to date.
 
 ## Talks, Presentations, and Doctoral Consortia
 
+**Apr '25.** &nbsp; Invited @ *Lorentz Center Workshop on Hybrid Argumentation and Responsible AI* 📍Leiden 🇳🇱
+
 **Mar '25.** &nbsp; Poster @ *Workshop on Human-AI Interaction* 📍Freiburg im Breisgau 🇩🇪
 
 **Jan '25.** &nbsp; Invited @ *University of Bayreuth* 📍Bayreuth 🇩🇪
