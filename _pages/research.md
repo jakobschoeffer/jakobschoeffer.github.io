@@ -11,6 +11,8 @@ An overview of my academic work to date.
 
 <span style="font-size:0.8em">🏆 Best paper; 🏅 Best paper honorable mention; \* Equal contribution</span>
 
+\[F-25.2\] **Schoeffer, J.**, De-Arteaga, M., Elmer, J. <a href="https://arxiv.org/abs/2504.04243" style="text-decoration:none">*Perils of label indeterminacy: A case study on prediction of neurological recovery after cardiac arrest*</a>. ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)  
+
 \[F-25.1\] **Schoeffer, J.**, Jakubik, J., Voessing, M., Kuehl, N., Satzger, G. <a href="https://doi.org/10.48550/arXiv.2304.08804" style="text-decoration:none">*AI reliance and decision quality: Fundamentals, interdependence, and the effects of interventions*</a>. Journal of Artificial Intelligence Research (JAIR)  
 <span style="color:grey; font-size:0.8em">Extended version of [F-23.3]</span>
 
