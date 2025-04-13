@@ -14,6 +14,8 @@ Prior to my current appointment, I was a Postdoctoral Research Fellow at the Uni
 
 ## News
 
+**Apr '25.** &nbsp; Our joint <a href="https://arxiv.org/abs/2504.04243" style="text-decoration:none">work</a> *Perils of label indeterminacy: A case study on prediction of neurological recovery after cardiac arrest* with <a href="https://mariadearteaga.com/" style="text-decoration:none">M. De-Arteaga</a> and <a href="https://www.emergencymedicine.pitt.edu/people/jonathan-elmer" style="text-decoration:none">J. Elmer</a> got accepted at <a href="https://facctconference.org" style="text-decoration:none">ACM FAccT '25</a>.
+
 **Feb '25.** &nbsp; I started my new role as tenure-track assistant professor of responsible and explainable AI at the <a href="https://www.rug.nl/research/bernoulli/" style="text-decoration:none">University of Groningen, Bernoulli Institute</a>.
 
 **Jan '25.** &nbsp; I gave an invited <a href="https://www.uni-bayreuth.de/en/bayreuth-lectures" style="text-decoration:none">Bayreuth Lecture</a> on challenges and opportunities in human-AI collaboration.   
