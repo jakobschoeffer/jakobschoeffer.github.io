@@ -4,8 +4,6 @@ layout: single
 author_profile: true
 ---
 
-📢 **I am looking for a PhD student to work at the intersection of responsible AI and human-AI collaboration!** Learn more and apply <a href="https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S000B7HP" style="text-decoration:none">here</a> 🚀
-
 I am a tenure-track Assistant Professor at the <a href="https://www.rug.nl/research/bernoulli/?lang=en" style="text-decoration:none">Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence</a>, University of Groningen (Netherlands). My research addresses problems that arise when humans and AI systems interact, with a focus on fairness and transparency in high-stakes decision-making.
 
 My main objective is to contribute to the responsible design and deployment of AI systems, fostering a more equitable and just society. To this end, I employ a multidisciplinary approach that integrates novel AI techniques with insights derived from behavioral research, utilizing a mix of quantitative and qualitative methods.
