@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-**I am hiring a fully-funded PhD student to work on responsible human-AI collaboration. If interested, please reach out!** 
+📢 **I am hiring a fully-funded PhD student to work on responsible human-AI collaboration. If interested, please reach out!** 
 
 I am a tenure-track Assistant Professor at the <a href="https://www.rug.nl/research/bernoulli/?lang=en" style="text-decoration:none">Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence</a>, University of Groningen (Netherlands). My research addresses problems that arise when humans and AI systems interact, with a focus on fairness and transparency in high-stakes decision-making.
 
