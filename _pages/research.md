@@ -59,6 +59,12 @@ An overview of my academic work to date.
 
 ## Talks, Presentations, and Doctoral Consortia
 
+**Jun '25.** &nbsp; Paper @ *ACM FAccT '25* 📍Athens 🇬🇷
+
+**Jun '25.** &nbsp; Tutorial @ *ACM FAccT '25* 📍Athens 🇬🇷
+
+**Jun '25.** &nbsp; Invited @ *The Netherlands Research School for Information and Knowledge Systems (SIKS)* 📍Vught 🇳🇱
+
 **Apr '25.** &nbsp; Invited @ *Lorentz Center Workshop on Hybrid Argumentation and Responsible AI* 📍Leiden 🇳🇱
 
 **Mar '25.** &nbsp; Poster @ *Workshop on Human-AI Interaction* 📍Freiburg im Breisgau 🇩🇪
