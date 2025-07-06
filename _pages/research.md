@@ -57,7 +57,7 @@ An overview of my academic work to date.
 \[S-21.1\] **Schoeffer, J.**, Machowski, Y., Kuehl, N. <a href="https://doi.org/10.48550/arXiv.2103.04757" style="text-decoration:none">*A study on fairness and trust perceptions in automated decision making*</a>. ACM IUI '21 Workshop on Transparency and Explanations in Smart Systems (TExSS)
 
 
-## Talks, Presentations, and Doctoral Consortia
+## Talks and Panels
 
 **Jun '25.** &nbsp; Paper @ *ACM FAccT '25* 📍Athens 🇬🇷
 
