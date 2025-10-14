@@ -7,6 +7,13 @@ author_profile: true
 
 An overview of my teaching activities to date.
 
+## Co-Lecturer
+
+*Human-Centred Artificial Intelligence* \[WMCC023-05\], University of Groningen, 2025
+
+*Responsible AI* \[WMAI029-05\], University of Groningen, 2025
+
+
 ## Invited Lectures
 
 *Human-AI Collaboration*, UT Austin, 2024
