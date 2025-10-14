@@ -59,6 +59,8 @@ An overview of my academic work to date.
 
 ## Talks and Panels
 
+**Oct '25.** &nbsp; Seminar @ *ESADE Business School* 📍Barcelona 🇪🇸
+
 **Jun '25.** &nbsp; Paper @ *ACM FAccT '25* 📍Athens 🇬🇷
 
 **Jun '25.** &nbsp; Tutorial @ *ACM FAccT '25* 📍Athens 🇬🇷
