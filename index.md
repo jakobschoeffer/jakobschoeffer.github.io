@@ -16,6 +16,8 @@ Prior to my current appointment, I was a Postdoctoral Research Fellow at the Uni
 
 **Sep '25.** &nbsp; Our recent FAccT '25 <a href="https://dl.acm.org/doi/full/10.1145/3715275.3732070" style="text-decoration:none">paper</a> was featured in an <a href="https://ukrant.nl/magazine/what-are-the-comatose-patients-chances-dont-count-on-ai-for-advice-just-yet/?lang=en" style="text-decoration:none">article</a> by the University of Groningen newspaper UKrant.
 
+**May '25.** &nbsp; I joined the editorial board of the <a href="https://dl.acm.org/journal/jrc" style="text-decoration:none">ACM Journal on Responsible Computing (JRC)</a> as an associate editor.
+
 **Apr '25.** &nbsp; Our joint <a href="https://arxiv.org/abs/2504.04243" style="text-decoration:none">work</a> *Perils of label indeterminacy: A case study on prediction of neurological recovery after cardiac arrest* with <a href="https://mariadearteaga.com/" style="text-decoration:none">M. De-Arteaga</a> and <a href="https://www.emergencymedicine.pitt.edu/people/jonathan-elmer" style="text-decoration:none">J. Elmer</a> got accepted at <a href="https://facctconference.org" style="text-decoration:none">ACM FAccT '25</a>.
 
 **Feb '25.** &nbsp; I started my new role as tenure-track assistant professor of responsible and explainable AI at the <a href="https://www.rug.nl/research/bernoulli/" style="text-decoration:none">University of Groningen, Bernoulli Institute</a>.
