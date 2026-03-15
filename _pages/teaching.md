@@ -32,4 +32,4 @@ An overview of my teaching activities to date.
 
 *Global Optimization*, KIT, 2014–2016
 
-*Introduction to Operations Research* | KIT | 2013–2016
+*Introduction to Operations Research* &#124; KIT &#124; 2013–2016
