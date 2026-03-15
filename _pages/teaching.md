@@ -20,7 +20,7 @@ An overview of my teaching activities to date.
 
 *Artificial Intelligence in Service Systems*, KIT, 2020–2023
 
-## Course Instructor
+## Student Lecturer
 
 *Digital Services: Foundations*, KIT, 2019–2023
 
