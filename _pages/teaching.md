@@ -7,6 +7,13 @@ author_profile: true
 
 An overview of my teaching activities to date.
 
+## Course Coordinator / Lecturer
+
+\[WBAI082-05\] *Humans and AI* &#124; University of Groningen &#124; 2026
+
+\[WMAI029-05\] *Responsible AI* &#124; University of Groningen &#124; 2026
+
+
 ## Co-Lecturer
 
 \[WMCC023-05\] *Human-Centred Artificial Intelligence* &#124; University of Groningen &#124; 2025
