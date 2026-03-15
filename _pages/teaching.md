@@ -16,7 +16,7 @@ An overview of my teaching activities to date.
 
 ## Invited Lectures
 
-*Topics in Human-AI Collaboration*, Bayreuth, 2026
+*Topics in Human-AI Collaboration*, University of Bayreuth, 2026
 
 *Human-AI Collaboration*, UT Austin, 2024
 
