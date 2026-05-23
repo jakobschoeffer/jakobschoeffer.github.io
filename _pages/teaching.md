@@ -18,9 +18,9 @@ An overview of my teaching activities to date.
 
 ## Co-Lecturer
 
-\[WMCC023-05\] *Human-Centred Artificial Intelligence* &#124; University of Groningen &#124; 2025
+\[WMAI029-05\] *Responsible AI* &#124; University of Groningen &#124; 2025–2026  
 
-\[WMAI029-05\] *Responsible AI* &#124; University of Groningen &#124; 2025
+\[WMCC023-05\] *Human-Centred Artificial Intelligence* &#124; University of Groningen &#124; 2025–2026   
 
 
 ## Invited Lectures
