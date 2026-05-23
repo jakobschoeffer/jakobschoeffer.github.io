@@ -29,13 +29,15 @@ An overview of my teaching activities to date.
 
 *Human-AI Collaboration* &#124; UT Austin &#124; 2024
 
-*Artificial Intelligence in Service Systems* &#124; KIT &#124; 2020–2023
 
 ## Student Lecturer
+
+*Artificial Intelligence in Service Systems* &#124; KIT &#124; 2020–2023  
 
 *Digital Services: Foundations* &#124; KIT &#124; 2019–2023
 
 *Markov Decision Models* &#124; KIT &#124; 2015–2016
+
 
 ## Teaching Assistant / Tutor
 
