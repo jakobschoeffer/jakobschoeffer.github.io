@@ -43,4 +43,6 @@ An overview of my teaching activities to date.
 
 *Global Optimization* &#124; KIT &#124; 2014–2016
 
+*Nonlinear Optimization* &#124; KIT &#124; 2014–2016  
+
 *Introduction to Operations Research* &#124; KIT &#124; 2013–2016
