@@ -6,11 +6,15 @@ author_profile: true
 
 <!--- 📢 **I am hiring a fully-funded PhD student to work on responsible human-AI collaboration. If interested, please send me an email!** --->
 
-I am a tenure-track Assistant Professor at the <a href="https://www.rug.nl/research/bernoulli/?lang=en" style="text-decoration:none">Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence</a>, University of Groningen (Netherlands). My research addresses problems that arise when humans and AI systems interact, with a focus on fairness and transparency in high-stakes decision-making.
+I am a tenure-track Assistant Professor at the <a href="https://www.rug.nl/research/bernoulli/?lang=en" style="text-decoration:none">Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence</a>, University of Groningen (The Netherlands). My research addresses problems that arise when humans and AI systems interact, with a focus on fairness and transparency in high-stakes decision-making.
 
 My main objective is to contribute to the responsible design and deployment of AI systems, fostering a more equitable and just society. To this end, I employ a multidisciplinary approach that integrates novel AI techniques with insights derived from behavioral research, utilizing a mix of quantitative and qualitative methods.
 
 Prior to my current appointment, I was a Postdoctoral Research Fellow at the University of Texas at Austin, working closely with <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria De-Arteaga</a>. I received my PhD from the Karlsruhe Institute of Technology (KIT) in Germany, where I wrote a <a href="https://doi.org/10.5445/IR/1000164741" style="text-decoration:none">dissertation</a> "On the Interplay of Transparency and Fairness in AI-Informed Decision-Making." I also hold a master's degree in Operations Research from Georgia Tech. As a doctoral student, I was fortunate to do a research internship with Microsoft in Redmond. Before starting my PhD, I worked for two years as a Senior Data Scientist at IBM in New York.
+
+I am lucky to work with many brilliant students. Currently, I am a PhD advisor for <a href="https://ranjan-p-mishra.github.io/" style="text-decoration:none">Ranjan Mishra</a> (Groningen), and I informally co-advise <a href="https://lucad98.github.io/" style="text-decoration:none">Luca Deck</a> (Bayreuth); I also supervise student projects of Matei Tanas&#259;, Daniella Alves, Uisca Hammond, and Adriana Kobriger (joint with <a href="https://gmvandeven.github.io/" style="text-decoration:none">Gido van de Ven</a>).
+
+
 
 ## News
 
