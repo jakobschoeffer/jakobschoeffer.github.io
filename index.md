@@ -18,7 +18,7 @@ I am lucky to work with many brilliant students. Currently, I am a PhD advisor f
 
 ## News
 
-**Jul '26.** &nbsp; I got tenure and won an NWO Veni grant 🎉
+**Jul '26.** &nbsp; I got tenure and won an <a href="https://www.nwo.nl/en/researchprogrammes/nwo-talent-programme/projects-veni" style="text-decoration:none">NWO Veni</a> grant 🎉
 
 **Sep '25.** &nbsp; Our recent FAccT '25 <a href="https://dl.acm.org/doi/full/10.1145/3715275.3732070" style="text-decoration:none">paper</a> was featured in an <a href="https://ukrant.nl/magazine/what-are-the-comatose-patients-chances-dont-count-on-ai-for-advice-just-yet/?lang=en" style="text-decoration:none">article</a> by the University of Groningen newspaper UKrant.
 
